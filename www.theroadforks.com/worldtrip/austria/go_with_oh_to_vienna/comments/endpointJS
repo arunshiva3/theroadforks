@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/austria/go_with_oh_to_vienna/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/austria/go_with_oh_to_vienna/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/austria/go_with_oh_to_vienna/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/austria/go_with_oh_to_vienna/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/austria/go_with_oh_to_vienna/comments";

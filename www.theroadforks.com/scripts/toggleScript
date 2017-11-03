@@ -1,0 +1,33 @@
+var toggleHiddenText = new Array();
+var toggleShownText = new Array();
+var toggleStatus = new Array();
+
+function toggleInit(objId, linkId, status, hiddenText, shownText) {
+  toggleHiddenText[linkId] = hiddenText;
+  toggleShownText[linkId] = shownText;
+  toggleStatus[objId] = "shown";
+
+  jQuery(document).ready(function() {
+    jQuery("a." + linkId).click(function() {
+      toggleObject(objId, linkId);
+    });
+  });
+
+  if (status == "hidden") {
+    jQuery(document).ready(function() {
+      toggleObject(objId, linkId);
+    });
+  }
+}
+
+function toggleObject(objId, linkId) {
+  if (toggleStatus[objId] == "hidden") {
+    jQuery("#" + objId).slideDown('fast');
+    toggleStatus[objId] = "shown";
+    jQuery("a." + linkId).html(toggleShownText[linkId]);
+  } else {
+    jQuery("#" + objId).slideUp('fast');
+    toggleStatus[objId] = "hidden";
+    jQuery("a." + linkId).html(toggleHiddenText[linkId]);
+  }
+}

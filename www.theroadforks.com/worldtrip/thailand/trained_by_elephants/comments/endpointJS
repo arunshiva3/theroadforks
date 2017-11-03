@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/thailand/trained_by_elephants/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/thailand/trained_by_elephants/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/thailand/trained_by_elephants/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/thailand/trained_by_elephants/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/thailand/trained_by_elephants/comments";

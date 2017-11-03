@@ -1,0 +1,92 @@
+<html>  <head>
+<base href="http://www.theroadforks.com/robots.txt/" />
+<title>The Road Forks - Travel and Food Blog</title></head>
+  <body bgcolor="#FFFFFF">
+
+<script language="javascript">
+  window.location.href = "/index_html?error_type=" + escape('NotFound');
+</script>
+
+
+  <h2>Site Error</h2>
+
+  <p>An error was encountered while publishing this resource.
+  </p>
+  
+  <p>
+      <strong>Error Type: NotFound</strong><br/>
+      <strong>Error Value: The requested resource does not exist.</strong><br/> 
+  </p>
+ 
+  <hr noshade="noshade" />
+ 
+  <p>Troubleshooting Suggestions</p>
+
+  <ul>
+            <li>The URL may be incorrect.</li>
+      <li>The parameters passed to this resource may be incorrect.</li>
+      <li>A resource that this resource relies on may be encountering
+          an error.</li>
+  </ul>
+
+  <p>For more detailed information about the error, please
+  refer to the error log.
+  </p>
+
+  <p>If the error persists please contact the site maintainer.
+  Thank you for your patience.
+  </p>
+
+  
+
+  </body>
+</html>
+
+HTTP/1.1 404 Not Found
+Server: Zope/(Zope 2.10.6-final, python 2.4.5, linux2) ZServer/1.1
+Date: Fri, 27 Oct 2017 01:05:48 GMT
+Bobo-Exception-Line: 672
+Content-Length: 1059
+Bobo-Exception-Value: See the server error log for details
+Content-Type: text/html; charset=iso-8859-15
+Bobo-Exception-Type: NotFound
+Bobo-Exception-File: HTTPResponse.py
+
+<html>
+  <head><title>from farm to table: doka estate coffee</title></head>
+  <body bgcolor="#FFFFFF">
+
+<script language="javascript">
+  window.location.href = "/index_html?error_type=" + escape('NotFound');
+</script>
+
+
+   <h2>Site Error</h2>
+  <p>An error was encountered while publishing this resource.
+  </p>
+  <p><strong>Resource not found</strong></p>
+
+  Sorry, the requested resource does not exist.<p>Check the URL and try again.</p><p><b>Resource:</b> http://www.theroadforks.com/worldtrip/costa_rica/from_farm_to_table_doka_coffee/%C3%A2%C2%80%C2%9Chttps%3A</p>
+  <hr noshade="noshade"/>
+
+  <p>Troubleshooting Suggestions</p>
+
+  <ul>
+  <li>The URL may be incorrect.</li>
+  <li>The parameters passed to this resource may be incorrect.</li>
+  <li>A resource that this resource relies on may be
+      encountering an error.</li>
+  </ul>
+
+  <p>For more detailed information about the error, please
+  refer to the error log.
+  </p>
+
+  <p>If the error persists please contact the site maintainer.
+  Thank you for your patience.
+  </p>
+
+
+  </body>
+</html>
+

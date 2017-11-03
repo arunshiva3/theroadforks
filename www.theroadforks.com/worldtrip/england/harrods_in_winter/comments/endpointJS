@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/england/harrods_in_winter/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/harrods_in_winter/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/harrods_in_winter/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/england/harrods_in_winter/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/england/harrods_in_winter/comments";

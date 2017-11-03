@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/offtheroad/samsung_ssd_review/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/offtheroad/samsung_ssd_review/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/offtheroad/samsung_ssd_review/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/offtheroad/samsung_ssd_review/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/offtheroad/samsung_ssd_review/comments";

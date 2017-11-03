@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/england/essential_cotswolds/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/essential_cotswolds/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/essential_cotswolds/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/england/essential_cotswolds/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/england/essential_cotswolds/comments";

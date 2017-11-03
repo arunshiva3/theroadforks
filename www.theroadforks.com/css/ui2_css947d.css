@@ -1,0 +1,123 @@
+.main { box-shadow: 0px 0px 10px #CCC; }
+.slider { margin-left: 25px; }
+
+a:link, a:visited { color:#17BACC; text-decoration: none; }      
+a:active, a:hover { color:#427A00; text-decoration: none; }  
+
+.main ul { list-style-image: url('../../lh6.googleusercontent.com/-fBTuE7GLKKs/Tvjblx9CiII/AAAAAAAALe8/0nHV289P8QQ/s800/bullet_gray.png'); }
+
+.banner_background, .banner_big, .menubar { width: 980px; }
+
+a.banner_background { background: url(../../lh4.googleusercontent.com/-fUpI4p5KAVU/Tvofz7puogI/AAAAAAAALkI/nNBN3UqUouQ/s1600/header-final.png) 0 0 no-repeat; height: 329px; width: 1240px; margin-left: -21px; position: relative; z-index: 1;}
+.banner_wrapper { top: 91px; margin-left: -233px; }
+.slider_caption { text-align: center; color: #000000; }
+.slider_title, .slider_date { color: #000000; font-family: 'Calligraffitti', cursive; }
+.slider_title { font-size: 26px; }
+.slider_date { font-size: 16px; }
+
+.slider_tt { width: 135px; text-align: left; }
+
+.slider_tt_title { font-weight: bold; }
+
+.right { z-index: 3; }
+.main_left { box-shadow: 0px 0px 10px #CCC; background-color: #F4F4F4; }
+
+.video_front { border-color: #DDD; }
+
+.main_left { position: relative; margin-top: -12px; }
+.right { position: relative; margin-top: -21px; }
+
+.left_top_images { width: 300px; margin-top: 10px; display: block; margin-left: auto; margin-right: auto; }
+#socialPics { width: 280px; margin-left: 15px; height: 68px; }
+/* .ads_front_page { margin-right: auto; margin-left: auto; margin-top: 10px; width: 270px; margin-top: 10px; height: 130px; } */
+.ads_front_page { margin-right: auto; margin-left: auto; margin-top: 10px; width: 270px; margin-top: 10px; height: 0px; } 
+
+.left_nav { border-color: #CCC;  }
+.left_nav_description { background-color: #F4F4F4; border-bottom-color: #CCC; }
+.left_nav_break { border-top-color: #F4F4F4; }
+
+.theroadunleashed { border-style: none; width: 300px; height: 287px; margin-left: auto; margin-right: auto; margin-top: 5px; }
+
+.links_random { margin-top: 10px; }
+
+.left_about_text { border-color: #F4F4F4; }
+a.left_about_img { background: url(../../lh4.googleusercontent.com/-Hb8qWcmDGyc/TvSqHo-9W3I/AAAAAAAALNQ/4i5_DgYE8jc/s800/about_blue.png) 0 0 no-repeat; }
+a.rss_email { background: url(../../lh4.googleusercontent.com/-8-m15dJw_Zo/TvTN9XbKr6I/AAAAAAAALWQ/TKqIMyHOkdM/s800/subscribe_email_blue_2.png) 0 0 no-repeat; width: 134px; height: 70px; }
+
+.side_banner_title_countries { background: url(../../lh4.googleusercontent.com/-qiXAxya0t-E/TvTM-Q8upaI/AAAAAAAALV4/8rsErKc8omg/s800/browse_destination_blue.png) 0 0 no-repeat; }
+.side_banner_title_categories { background: url(../../lh3.googleusercontent.com/-HfpsqcU06sI/TvSqIGBue6I/AAAAAAAALNc/miyH0ilbSNA/s800/browse_category_blue.png) 0 0 no-repeat; }
+.side_banner_travel { background: url(../../lh6.googleusercontent.com/-dy8edJsspj0/TvSqIH2dBlI/AAAAAAAALNg/C1P3WiBfnbU/s800/browse_destination_blue.png) 0 0 no-repeat; }
+
+.side_banner_title_travel, .side_banner_title_food { width: 138px; height: 44px; display: inline-block; margin-left: 79px; }
+.side_banner_title_travel_img, .side_banner_title_food_img { width: 138px; height: 44px; margin-left: auto; margin-right: auto; }
+
+.front_what { width: 200px; height: 368px; display: inline-block; margin-left: 8px; margin-right: 8px; }
+.front_what_img {background: url(../../lh3.googleusercontent.com/-byw9G96nfmA/TvdjHL9bKvI/AAAAAAAALbc/qTlM7Hfl3sM/s800/what_blue_4.png) 0 0 no-repeat; width: 85px; height: 50px; margin-left: auto; margin-right: auto; }
+.where_we_are { background: url(../../lh6.googleusercontent.com/-qV0b3GHjapc/TvjgIaQA_nI/AAAAAAAALgA/dnXD97T0VOY/s800/where_blue_6.png) 0 0 no-repeat; width: 200px; height: 60px; margin-left: auto; margin-right: auto; }
+.recent_videos { background: url(../../lh5.googleusercontent.com/-9Uk2A1M8lnk/TvjgIINcT6I/AAAAAAAALf8/bE26cOe8CTc/s800/watch_blue_5.png) 0 0 no-repeat; width: 200px; height: 60px; margin-left: auto; margin-right: auto;}
+
+#featured_posts { margin-top: 5px; margin-left: auto; margin-right: auto; }
+.featured_posts_img_wrapper { width: 525px; height: 59px; margin-left: auto; margin-right: auto; display: block; margin-bottom: 5px; }
+.featured_posts_img { background: url(../../lh4.googleusercontent.com/-WBQhrv6V6O8/Tvjn2CQ3q8I/AAAAAAAALgw/xZjuaQJQWm4/s800/featured_posts_blue_v4.png) 0 0 no-repeat; }
+.featured_posts_img { width: 378px; height: 60px; margin-left: auto; margin-right: auto; display: block; }
+.featured_post { border-color: #DDD; }
+
+.front_featured_in { width: 200px; height: 360px; display: inline-block; margin-left: 8px; margin-right: 8px; }
+.front_featured_in_img {background: url(../../lh4.googleusercontent.com/-zS2QZAu2k68/TvjesMibl5I/AAAAAAAALfo/2Gaq1aIocaM/s800/featured_in_blue.png) 0 0 no-repeat; width: 180px; height: 60px; margin-left: auto; margin-right: auto; }
+
+.picLink_pics { display: block; }
+.picLink_form { border: 1px solid #1B9EE0; padding: 3px; }
+.picLink_form_url, .picLink_form_alt, .picLink_form_img, .picLink_form_img_highlight { font-size: 10px; width: 135px; }
+.picLink_img_browse, .picLink_img_highlight_browse { font-size: 10px; }
+.picLink_form_apply, picLink_form_add, picLink_form_new, picLink_form_save { }
+.picLink_wrapper { float: left; padding: 1px; }
+.picLink_link {  }
+.picLink_img { opacity: 0.725; }
+.picLink_wrapper_buttons {  }
+.picLink_wrapper_edit, .picLink_wrapper_delete, .picLink_wrapper_right, .picLink_wrapper_left { width: 16px; height: 16px; }
+.picLink_status { color: #A6A6A6; font-style:italic; }
+
+.post_summary_comments_count { margin-top: -12px; }
+.post_end, #addComment  {  background-color: #F4F4F4; }
+.post_wrapper, .archive_wrapper { border-color: #F4F4F4; }
+
+.comments_img { width: 339px; height: 60px; background: url(../../lh6.googleusercontent.com/-PSo_uWxJ-G0/Tv9OQKviczI/AAAAAAAALpw/edEP3tlOuMY/s800/fantastic_comments.png) 0 0 no-repeat; }
+.comments_count { font-size: 50px; color: #17BACC; }
+
+#add_comment_img { background: url(../../lh4.googleusercontent.com/--jcJIo4tU1g/Tv9XKh02ahI/AAAAAAAALqI/_Irxm_ed57w/s800/join_the_discussion.png); width: 300px; height: 70px; }
+
+.menubar { position: relative; z-index: 2; padding-bottom: 10px; margin-left: 360px; margin-top: -100px; }
+
+.side_featured { display: inline-block; width: 294px; margin-top: 10px; text-align: center; margin-left: auto; margin-right: auto; padding: 6px; background-color: white; }
+.side_featured_img { width: 294px; }
+.side_featured_title { font-weight: bold; }
+.side_featured_text { }
+
+.related_posts_wrapper { display: inline-block; }
+.related_posts_img { display: block; width: 232px; height: 55px; margin-left: auto; margin-right: auto; background: url(../../lh5.googleusercontent.com/-CHR2ZI1Be8A/Tv9B2_yO8YI/AAAAAAAALpQ/7WPNYXoUcfc/s800/related_posts_1.png) 0 0 no-repeat; }
+.related_post { display: inline-block; vertical-align: top; width: 160px; margin: 1px; text-align: center; }
+.related_posts { display: inline-block; }
+
+.tagger_title { font-size: 20px; font-weight: bold; margin-bottom: 4px; color: #AAA; }
+
+.post_tags_wrapper { display: inline-block; width: 165px; text-align: center; float: right; }
+.post_tags_img { display: block; width: 108px; height: 60px; margin-left: auto; margin-right: auto; background: url(../../lh4.googleusercontent.com/-Wm7eyEugclY/Tv9D64C5eTI/AAAAAAAALpg/RrEdJXCGL6M/s800/tags.png) 0 0 no-repeat; }
+.post_tags_links { display: block; text-align: center; }
+.post_tags_link { display: block; text-align: center; margin-top: 4px; }
+
+.comment_gravatar { border: 1px solid #CCC; padding: 2px; left: -3px; }
+
+a.home { background:url('../../lh3.googleusercontent.com/-EZv-9k7liCo/Typ5LshedyI/AAAAAAAAOXI/_8OZ2M7VQ1I/s800/home.png') 0 0 no-repeat; width: 79px; height: 48px; }
+a.home:hover, a.home_selected { background:url('../../lh5.googleusercontent.com/-iRDUwhO_bLk/Typ5KckN6NI/AAAAAAAAOW0/UZIWTC0udmE/s800/home2.png') 0 0 no-repeat; width: 79px; height: 48px; }
+
+a.travel { background:url('../../lh4.googleusercontent.com/-M2_lawOU-x4/Typ5HsqT1RI/AAAAAAAAOWM/4EyE_8AyR1s/s800/travel.png') 0 0 no-repeat; width: 107px; height: 48px; }
+a.travel:hover, a.travel_selected { background:url('../../lh3.googleusercontent.com/-6VZAO-cXeKI/Typ5H_l5COI/AAAAAAAAOWQ/KElPGOY0ccE/s800/travel2.png') 0 0 no-repeat; width: 107px; height: 48px; }
+
+a.recipes { background:url('../../lh6.googleusercontent.com/-uDbPtjNwJhM/Typ5H_qcajI/AAAAAAAAOWU/onpCTT8IrOE/s800/recipes2.png') 0 0 no-repeat; width: 109px; height: 48px; }
+a.recipes:hover, a.recipes_selected{ background:url('../../lh3.googleusercontent.com/-94PS8RABJtY/Typ5IY5vNFI/AAAAAAAAOWY/9y0HaRga-iw/s800/recipes.png') 0 0 no-repeat; width: 109px; height: 48px;  }
+
+a.offtheroad { background:url('../../lh4.googleusercontent.com/-oCyZcNKWdBY/Typ5Jh7D4fI/AAAAAAAAOWw/GwoVGkiycfE/s800/off.png') 0 0 no-repeat; width: 142px; height: 48px; }
+a.offtheroad:hover, a.offtheroad_selected{ background:url('../../lh6.googleusercontent.com/-Vb7-TmR0pYc/Typ5IofVDCI/AAAAAAAAOWs/Dyhs1MvM8fo/s800/off2.png') 0 0 no-repeat; width: 142px; height: 48px; }
+
+a.archives { background:url('../../lh5.googleusercontent.com/-7gAbh8uYIFM/Typ5MK_mGcI/AAAAAAAAOXE/7vUl7aK-VGg/s800/archives.png') 0 0 no-repeat; width: 116px; height: 48px; }
+a.archives:hover, a.archives_selected { background:url('../../lh5.googleusercontent.com/-xiu89e14QDY/Typ5L9TzaDI/AAAAAAAAOXM/lqj9xEy-l2o/s800/archives2.png') 0 0 no-repeat; width: 116px; height: 48px; }

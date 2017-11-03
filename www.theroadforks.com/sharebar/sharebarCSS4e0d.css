@@ -1,0 +1,17 @@
+.sharebar { 
+padding: 3px;
+float: right;
+position: fixed;
+border-radius: 0px 5px 5px 0px;
+background-color: white;
+text-align: center;
+box-shadow: 2px 2px 10px #CCC;
+width: 50px;
+height: 288px;
+left: 50%;
+margin-left: 600px;
+bottom: -103px;
+top: 310px;
+}
+
+.sharebar_button { margin-bottom: 5px; }

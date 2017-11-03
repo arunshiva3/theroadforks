@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/japan/japanese_desserts/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/japan/japanese_desserts/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/japan/japanese_desserts/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/japan/japanese_desserts/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/japan/japanese_desserts/comments";

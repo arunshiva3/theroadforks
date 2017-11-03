@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/kirstenbosch_gardens/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/kirstenbosch_gardens/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/kirstenbosch_gardens/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/kirstenbosch_gardens/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/kirstenbosch_gardens/comments";

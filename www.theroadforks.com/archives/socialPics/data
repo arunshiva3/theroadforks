@@ -1,0 +1,28 @@
+{
+  "pics": [
+    {
+      "url": "http://twitter.com/theroadforks",
+      "alt": "Twitter",
+      "img": "https://lh6.ggpht.com/-RMnuB2I7mrU/TtuEr27D0-I/AAAAAAAAK9g/KxqfHl_-J44/097302-3d-transparent-glass-icon-social-media-logos-twitter-bird3-square.png?imgmax=64",
+      "img_highlight": "https://lh3.ggpht.com/-kBQaX1Vi260/TtuErmXV-XI/AAAAAAAAK9Q/-4ofPez8unY/097303-3d-transparent-glass-icon-social-media-logos-twitter-bird3.png?imgmax=64"
+    },
+    {
+      "url": "http://www.facebook.com/pages/The-Road-Forks/233447005013",
+      "alt": "Facebook",
+      "img": "https://lh5.ggpht.com/-4rAegT3DAuY/TtuFGbqsueI/AAAAAAAALFg/EYLiXwpvd1w/097232-3d-transparent-glass-icon-social-media-logos-facebook-logo-square.png?imgmax=64",
+      "img_highlight": "https://lh3.ggpht.com/-1mOhVflp-Wk/TtuFEL4L6vI/AAAAAAAALEw/mrDk6xKkqX0/097233-3d-transparent-glass-icon-social-media-logos-facebook-logo.png?imgmax=64"
+    },
+    {
+      "url": "mailto:theroadforks@gmail.com",
+      "alt": "Email",
+      "img": "../lh3.ggpht.com/-iCbyKkjTjMw/TtuE8Ce3eAI/AAAAAAAALCY/Z2JcZQWmVcw/097256-3d-transparent-glass-icon-social-media-logos-mail-square.png?imgmax=64",
+      "img_highlight": "https://lh5.ggpht.com/-BjHKawL0CsI/TtuE7Vkw8gI/AAAAAAAALCI/wPQQ7_vTiEY/097257-3d-transparent-glass-icon-social-media-logos-mail.png?imgmax=64"
+    },
+    {
+      "url": "http://feeds.feedburner.com/theroadforks",
+      "alt": "RSS",
+      "img": "https://lh3.ggpht.com/-3q0pjr4QVys/TtuE0OIv2NI/AAAAAAAAK_0/6wiR2Vm23Hw/097283-3d-transparent-glass-icon-social-media-logos-rss-cube.png?imgmax=64",
+      "img_highlight": "https://lh3.ggpht.com/-lujeJb48p-Q/TtuEyd6qjHI/AAAAAAAAK_Y/UENDbjcPLJg/097282-3d-transparent-glass-icon-social-media-logos-rss-circle.png?imgmax=64"
+    }
+  ]
+}

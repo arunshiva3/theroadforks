@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/the_cape_drive/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/the_cape_drive/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/the_cape_drive/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/the_cape_drive/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/the_cape_drive/comments";

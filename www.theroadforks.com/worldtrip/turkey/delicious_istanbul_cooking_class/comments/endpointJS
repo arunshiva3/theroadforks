@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/turkey/delicious_istanbul_cooking_class/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/delicious_istanbul_cooking_class/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/delicious_istanbul_cooking_class/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/turkey/delicious_istanbul_cooking_class/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/turkey/delicious_istanbul_cooking_class/comments";

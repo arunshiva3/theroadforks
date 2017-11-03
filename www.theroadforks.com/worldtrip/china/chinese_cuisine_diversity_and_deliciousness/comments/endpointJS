@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/china/chinese_cuisine_diversity_and_deliciousness/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/china/chinese_cuisine_diversity_and_deliciousness/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/china/chinese_cuisine_diversity_and_deliciousness/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/china/chinese_cuisine_diversity_and_deliciousness/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/china/chinese_cuisine_diversity_and_deliciousness/comments";

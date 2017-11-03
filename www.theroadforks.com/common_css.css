@@ -1,0 +1,5 @@
+.comment_notspam { background-color: #EEF2E6; }
+.comment_spam { background-color: #FCD2D2; }
+.comment_unknown { background-color: #F9FCD2; }
+.comment_processing { background-color: #F9FCD2; }
+.comment_deleted { background-color: #CFCFCF; }
