@@ -1,16 +1,16 @@
 {
   "pics": [
     {
-      "url": "../recipearchives.html",
+      "url": "http://www.theroadforks.com/recipearchives.html",
       "alt": "Recipes",
-      "img": "https://lh5.ggpht.com/-SciyuOe_JE8/TRvC_Dd1x3I/AAAAAAAAK7s/DaIGO0GEPiQ/recipes_cat_pic2.jpg?imgmax=800",
-      "img_highlight": "https://lh5.ggpht.com/-SciyuOe_JE8/TRvC_Dd1x3I/AAAAAAAAK7s/DaIGO0GEPiQ/recipes_cat_pic2.jpg?imgmax=800"
+      "img": "http://lh5.ggpht.com/-SciyuOe_JE8/TRvC_Dd1x3I/AAAAAAAAK7s/DaIGO0GEPiQ/recipes_cat_pic2.jpg?imgmax=800",
+      "img_highlight": "http://lh5.ggpht.com/-SciyuOe_JE8/TRvC_Dd1x3I/AAAAAAAAK7s/DaIGO0GEPiQ/recipes_cat_pic2.jpg?imgmax=800"
     },
     {
-      "url": "../tagger/global_cusine.html",
+      "url": "http://wwww.theroadforks.com/tagger?tag=Global%20Cuisine",
       "alt": "Global Cuisine",
-      "img": "https://lh3.ggpht.com/-eYFkuAdBQ8I/TXQb0_kfiwI/AAAAAAAAK7s/XqIwzBdtpjY/global_cuisine_cat_pic.jpg?imgmax=800",
-      "img_highlight": "https://lh3.ggpht.com/-eYFkuAdBQ8I/TXQb0_kfiwI/AAAAAAAAK7s/XqIwzBdtpjY/global_cuisine_cat_pic.jpg?imgmax=800"
+      "img": "http://lh3.ggpht.com/-eYFkuAdBQ8I/TXQb0_kfiwI/AAAAAAAAK7s/XqIwzBdtpjY/global_cuisine_cat_pic.jpg?imgmax=800",
+      "img_highlight": "http://lh3.ggpht.com/-eYFkuAdBQ8I/TXQb0_kfiwI/AAAAAAAAK7s/XqIwzBdtpjY/global_cuisine_cat_pic.jpg?imgmax=800"
     }
   ]
 }
