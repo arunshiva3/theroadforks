@@ -11,111 +11,69 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="www.theroadforks.com" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="kruger_itineraries_and_lodges.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/worldtrip/south_africa/kruger_itineraries_and_lodges.html">
+      <file leaf-file-name="india.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/worldtrip/india.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9954">
-              <caret line="553" column="284" lean-forward="false" selection-start-line="553" selection-start-column="284" selection-end-line="553" selection-end-column="284" />
+            <state vertical-scroll-proportion="-8.708333">
+              <caret line="489" column="159" selection-start-line="489" selection-start-column="159" selection-end-line="489" selection-end-column="159" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="planning_a_kruger_trip.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/worldtrip/south_africa/planning_a_kruger_trip.html">
+      <file leaf-file-name="lightview.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/worldtrip/india/countryPics/js/lightview.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9972">
-              <caret line="554" column="293" lean-forward="false" selection-start-line="554" selection-start-column="293" selection-end-line="554" selection-end-column="293" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="south_africa_video.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/worldtrip/south_africa/south_africa_video.html">
+      <file leaf-file-name="pongal_mahabalipuram.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/worldtrip/india/pongal_mahabalipuram.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8460">
-              <caret line="470" column="288" lean-forward="false" selection-start-line="470" selection-start-column="288" selection-end-line="470" selection-end-column="288" />
+            <state vertical-scroll-proportion="0.026501767">
+              <caret line="284" column="49" selection-start-line="284" selection-start-column="49" selection-end-line="284" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="surprising_addo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/worldtrip/south_africa/surprising_addo.html">
+      <file leaf-file-name="airavatesvara_temple.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/worldtrip/india/airavatesvara_temple.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10044">
-              <caret line="558" column="264" lean-forward="false" selection-start-line="558" selection-start-column="264" selection-end-line="558" selection-end-column="264" />
-              <folding />
+            <state vertical-scroll-proportion="-5.418182">
+              <caret line="620" column="60" selection-start-line="620" selection-start-column="60" selection-end-line="620" selection-end-column="60" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="the_cape_drive.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/worldtrip/south_africa/the_cape_drive.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9594">
-              <caret line="533" column="365" lean-forward="false" selection-start-line="533" selection-start-column="365" selection-end-line="533" selection-end-column="365" />
-              <folding />
-            </state>
+      <file leaf-file-name="india_processed%252520%252528185%252520of%252520226%252529.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lh5.googleusercontent.com/-6Dr8mdixXTw/U-OHiVgQudI/AAAAAAAAalQ/dR3p3rv7FTE/india_processed%252520%252528185%252520of%252520226%252529.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="the_ethics_of_shark_diving.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/worldtrip/south_africa/the_ethics_of_shark_diving.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10188">
-              <caret line="566" column="264" lean-forward="false" selection-start-line="566" selection-start-column="264" selection-end-line="566" selection-end-column="264" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="elephant_beauty.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/worldtrip/thailand/elephant_beauty.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10116">
-              <caret line="562" column="272" lean-forward="false" selection-start-line="562" selection-start-column="272" selection-end-line="562" selection-end-column="272" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trained_by_elephants.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/worldtrip/thailand/trained_by_elephants.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10332">
-              <caret line="574" column="302" lean-forward="false" selection-start-line="574" selection-start-column="302" selection-end-line="574" selection-end-column="302" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crafts.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tagger/crafts.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265608">
-              <caret line="14756" column="277" lean-forward="false" selection-start-line="14756" selection-start-column="277" selection-end-line="14756" selection-end-column="277" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/travelPics/data">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-              <folding />
-            </state>
+      <file leaf-file-name="india_processed (185 of 226)384a.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lh5.googleusercontent.com/-6Dr8mdixXTw/U-OHiVgQudI/AAAAAAAAalQ/dR3p3rv7FTE/india_processed (185 of 226)384a.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -180,105 +138,69 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/recipearchives/dog_treats.html" />
-        <option value="$PROJECT_DIR$/recipearchives/edamame-dumplings.html" />
-        <option value="$PROJECT_DIR$/recipearchives/edamame-dumplings362b.html" />
-        <option value="$PROJECT_DIR$/recipearchives/gingerbread_muffins.html" />
-        <option value="$PROJECT_DIR$/recipearchives/gingerbread_muffins5758.html" />
-        <option value="$PROJECT_DIR$/recipearchives/goatcheesestuffedtomatoes.html" />
-        <option value="$PROJECT_DIR$/recipearchives/goatcheesestuffedtomatoes362b.html" />
-        <option value="$PROJECT_DIR$/recipearchives/grandma_oples_apple_pie5758.html" />
-        <option value="$PROJECT_DIR$/recipearchives/grilled_carrot_avocado_salad.html" />
-        <option value="$PROJECT_DIR$/recipearchives/homemadepastawithporcinis.html" />
-        <option value="$PROJECT_DIR$/recipearchives/how-to-grill-pizza.html" />
-        <option value="$PROJECT_DIR$/recipearchives/jiaozi_chinese_dumplings.html" />
-        <option value="$PROJECT_DIR$/recipearchives/kozhakattai_sweet_coconut_dumplings.html" />
-        <option value="$PROJECT_DIR$/recipearchives/kozhakattai_sweet_coconut_dumplings5758.html" />
-        <option value="$PROJECT_DIR$/recipearchives/lavender_ginger_creme_brulee.html" />
-        <option value="$PROJECT_DIR$/recipearchives/lavender_ginger_creme_brulee5758.html" />
-        <option value="$PROJECT_DIR$/recipearchives/main_dishes.html" />
-        <option value="$PROJECT_DIR$/recipearchives/meyer_lemon_budino.html" />
-        <option value="$PROJECT_DIR$/recipearchives/meyer_lemon_budino5758.html" />
-        <option value="$PROJECT_DIR$/recipearchives/mujadara.html" />
-        <option value="$PROJECT_DIR$/recipearchives/peach-tart-with-gingersnap-pecan-crust.html" />
-        <option value="$PROJECT_DIR$/recipearchives/peach-tart-with-gingersnap-pecan-crust5758.html" />
-        <option value="$PROJECT_DIR$/recipearchives/pressed-vegetarian-sandwich.html" />
-        <option value="$PROJECT_DIR$/recipearchives/pupcakes.html" />
-        <option value="$PROJECT_DIR$/recipearchives/side_dishes.html" />
-        <option value="$PROJECT_DIR$/recipearchives/spiced_chocolate_glacier_hiking.html" />
-        <option value="$PROJECT_DIR$/recipearchives/spiced_chocolate_glacier_hiking5758.html" />
-        <option value="$PROJECT_DIR$/recipearchives/stacked-beets-salad.html" />
-        <option value="$PROJECT_DIR$/recipearchives/stacked-beets-salad362b.html" />
-        <option value="$PROJECT_DIR$/recipearchives/starters.html" />
-        <option value="$PROJECT_DIR$/recipearchives/steelers_potato_skins.html" />
-        <option value="$PROJECT_DIR$/recipearchives/steelers_potato_skins362b.html" />
-        <option value="$PROJECT_DIR$/recipearchives/strawberry_lemonade_yogurt_cake.html" />
-        <option value="$PROJECT_DIR$/recipearchives/strawberry_lemonade_yogurt_cake5758.html" />
-        <option value="$PROJECT_DIR$/recipearchives/sweet_potatoes_three_ways.html" />
-        <option value="$PROJECT_DIR$/recipearchives/tropicalgranola.html" />
-        <option value="$PROJECT_DIR$/recipearchives/tropicalgranola5758.html" />
-        <option value="$PROJECT_DIR$/recipearchives/vegetable_summer_rolls.html" />
-        <option value="$PROJECT_DIR$/recipearchives/vegetable_summer_rolls362b.html" />
-        <option value="$PROJECT_DIR$/recipearchives/white-beans-with-slow-roasted-tomatoes.html" />
-        <option value="$PROJECT_DIR$/recipearchives/whole-wheat-pizza-dough.html" />
+        <option value="$PROJECT_DIR$/worldtrip/cambodia.html" />
+        <option value="$PROJECT_DIR$/gear/asus_eee_pad_slider.html" />
         <option value="$PROJECT_DIR$/gear/canon_wpdc29_underwater_camera.html" />
         <option value="$PROJECT_DIR$/gear/gadget-round-the-world-packing-list.html" />
         <option value="$PROJECT_DIR$/gear/kindle_for_travelers.html" />
-        <option value="$PROJECT_DIR$/gear/mans-round-the-world-packing-list.html" />
-        <option value="$PROJECT_DIR$/gear/womans-round-the-world-packing-list.html" />
-        <option value="$PROJECT_DIR$/hts-cache/new.lst" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/blogging.html" />
-        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
-        <option value="$PROJECT_DIR$/offtheroad/chewy_baby.html" />
-        <option value="$PROJECT_DIR$/offtheroad/travel_planning.html" />
-        <option value="$PROJECT_DIR$/gear/asus_eee_pad_slider.html" />
-        <option value="$PROJECT_DIR$/offtheroad/deals/giveaways.html" />
-        <option value="$PROJECT_DIR$/offtheroad.html" />
-        <option value="$PROJECT_DIR$/tagger/baby.html" />
-        <option value="$PROJECT_DIR$/tagger/crafts.html" />
-        <option value="$PROJECT_DIR$/worldtrip/cambodia/silky_stylings.html" />
-        <option value="$PROJECT_DIR$/worldtrip/newzealand/jaded_hokitika.html" />
-        <option value="$PROJECT_DIR$/worldtrip/thailand/lovely_lampang.html" />
-        <option value="$PROJECT_DIR$/worldtrip/turkey/lamps_grand_bazaar_istanbul.html" />
-        <option value="$PROJECT_DIR$/tagger/wildlife.html" />
-        <option value="$PROJECT_DIR$/travelPics/data" />
-        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/elephants_etosha.html" />
-        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/hippos_chobe.html" />
-        <option value="$PROJECT_DIR$/archives/travelPics/data" />
+        <option value="$PROJECT_DIR$/worldtrip/austria.html" />
+        <option value="$PROJECT_DIR$/worldtrip/bulgaria.html" />
+        <option value="$PROJECT_DIR$/worldtrip/aboutthetrip.html" />
+        <option value="$PROJECT_DIR$/worldtrip/czech_republic.html" />
+        <option value="$PROJECT_DIR$/worldtrip/itinerary.html" />
+        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/socialPics/data" />
+        <option value="$PROJECT_DIR$/archives.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/overlanding_101.html" />
+        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/day_in_the_life_fish_river_canyon.html" />
+        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/africa_in_focus_wrapup.html" />
         <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/25_lions_24_hours_etosha.html" />
-        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/cheetahs_awesome_namibia.html" />
-        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/lions_rest_in_video.html" />
-        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/the_wild_okavango_delta.html" />
-        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/watering_holes_etosha.html" />
-        <option value="$PROJECT_DIR$/worldtrip/australia/koala_love_magnetic_island.html" />
+        <option value="$PROJECT_DIR$/trips/hawaii2008/Tidbits.html" />
+        <option value="$PROJECT_DIR$/worldtrip/united_states.html" />
+        <option value="$PROJECT_DIR$/worldtrip/china.html" />
+        <option value="$PROJECT_DIR$/worldtrip/costa_rica.html" />
+        <option value="$PROJECT_DIR$/worldtrip/croatia.html" />
+        <option value="$PROJECT_DIR$/worldtrip/england.html" />
+        <option value="$PROJECT_DIR$/worldtrip/hungary.html" />
+        <option value="$PROJECT_DIR$/worldtrip/italy.html" />
+        <option value="$PROJECT_DIR$/worldtrip/queenmary2.html" />
+        <option value="$PROJECT_DIR$/worldtrip/south_africa.html" />
+        <option value="$PROJECT_DIR$/worldtrip/spain.html" />
+        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland.html" />
+        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/countryPics/data" />
+        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/lions_wake.html" />
+        <option value="$PROJECT_DIR$/worldtrip/australia/countryPics/data" />
+        <option value="$PROJECT_DIR$/worldtrip/australia/cheap-sydney-eats-mamak.html" />
+        <option value="$PROJECT_DIR$/worldtrip/australia/sydney_by_foot_hydepark_to_circularquay.html" />
+        <option value="$PROJECT_DIR$/worldtrip/australia/sydney_by_foot_circularquay_to_darlingharbour.html" />
+        <option value="$PROJECT_DIR$/worldtrip/australia.html" />
+        <option value="$PROJECT_DIR$/worldtrip/australia/barossa_valley.html" />
         <option value="$PROJECT_DIR$/worldtrip/australia/the_great_ocean_road.html" />
-        <option value="$PROJECT_DIR$/worldtrip/costa_rica/hummingbirds_flutter.html" />
-        <option value="$PROJECT_DIR$/worldtrip/costa_rica/the_surprising_morpho_butterfly.html" />
-        <option value="$PROJECT_DIR$/worldtrip/japan/Buddha_deer.html" />
-        <option value="$PROJECT_DIR$/worldtrip/japan/hot_tub_monkey_machine_nagano.html" />
-        <option value="$PROJECT_DIR$/worldtrip/south_africa/kruger_butts.html" />
-        <option value="$PROJECT_DIR$/worldtrip/south_africa/kruger_itineraries_and_lodges.html" />
-        <option value="$PROJECT_DIR$/worldtrip/south_africa/planning_a_kruger_trip.html" />
-        <option value="$PROJECT_DIR$/worldtrip/south_africa/south_africa_video.html" />
-        <option value="$PROJECT_DIR$/worldtrip/south_africa/surprising_addo.html" />
-        <option value="$PROJECT_DIR$/worldtrip/south_africa/the_cape_drive.html" />
-        <option value="$PROJECT_DIR$/worldtrip/south_africa/the_ethics_of_shark_diving.html" />
-        <option value="$PROJECT_DIR$/worldtrip/thailand/elephant_beauty.html" />
-        <option value="$PROJECT_DIR$/worldtrip/thailand/trained_by_elephants.html" />
+        <option value="$PROJECT_DIR$/worldtrip/australia/australia_the_lowdown.html" />
+        <option value="$PROJECT_DIR$/offtheroad/3waystostrengthenmarriage.html" />
+        <option value="$PROJECT_DIR$/worldtrip/australia/travelPics/data" />
+        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/travelPics/data" />
+        <option value="$PROJECT_DIR$/worldtrip/africa_in_focus_overland/foodPics/data" />
+        <option value="$PROJECT_DIR$/worldtrip/australia/foodPics/data" />
+        <option value="$PROJECT_DIR$/worldtrip/newzealand/milford_sound.html" />
+        <option value="$PROJECT_DIR$/worldtrip/newzealand/canyon_swinging.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/worldtrip/newzealand/marlborough_wines.html" />
+        <option value="$PROJECT_DIR$/worldtrip/india.html" />
+        <option value="$PROJECT_DIR$/worldtrip/india/airavatesvara_temple.html" />
+        <option value="$PROJECT_DIR$/worldtrip/india/pongal_mahabalipuram.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="-4" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
     <option name="width" value="1366" />
-    <option name="height" value="772" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -295,6 +217,16 @@
         </selected-state>
       </profile-state>
     </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -315,13 +247,22 @@
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="www.theroadforks.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.theroadforks.com" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.theroadforks.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.theroadforks.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.theroadforks.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -336,19 +277,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/offtheroad" />
-      <recent name="$PROJECT_DIR$/offtheroad/deals" />
-      <recent name="$PROJECT_DIR$/recipearchives" />
-      <recent name="$PROJECT_DIR$/offtheroad/3waystostrengthenmarriage/comments" />
-      <recent name="$PROJECT_DIR$/archives" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/offtheroad" />
-      <recent name="$PROJECT_DIR$/offtheroad/7_links_from_archives" />
-      <recent name="$PROJECT_DIR$/offtheroad/www.abestfashion.com" />
-      <recent name="$PROJECT_DIR$/offtheroad/writing_down_dreams" />
+      <recent name="$PROJECT_DIR$/worldtrip/india" />
+      <recent name="$PROJECT_DIR$/worldtrip/newzealand" />
+      <recent name="$PROJECT_DIR$/lh5.ggpht.com/_vqAAFYgeDm8" />
+      <recent name="$PROJECT_DIR$/lh4.ggpht.com/_vqAAFYgeDm8/SukR78v75VI/AAAAAAAABLk/Y8FMBqK34TI" />
+      <recent name="$PROJECT_DIR$/lh3.ggpht.com/_vqAAFYgeDm8/TRDig9HzQ7I/AAAAAAAAFbg/Q9uBwuZl6is" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lh6.ggpht.com/_vqAAFYgeDm8/SlKEVAbLwCI/AAAAAAAAAaY/dEZorDWexWI" />
+      <recent name="$PROJECT_DIR$/lh6.ggpht.com/_vqAAFYgeDm8/SxgN-k4_UTI/AAAAAAAABdk/75hiuPazWSU" />
+      <recent name="$PROJECT_DIR$/lh5.ggpht.com/_vqAAFYgeDm8/S6I3Wx2foNI/AAAAAAAADYo/ehSBkdtErW8" />
+      <recent name="$PROJECT_DIR$/lh4.ggpht.com/_vqAAFYgeDm8/SxapcjEHlsI/AAAAAAAABbU/TVDSRMYVvqQ" />
+      <recent name="$PROJECT_DIR$/lh4.ggpht.com/_vqAAFYgeDm8/SxapxWgQoTI/AAAAAAAABcE/PfJ_PBcgdX4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -364,25 +305,8 @@
     </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.africa_in_focus_wrapup.html">
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter />
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
+    <configuration default="false" name="africa_in_focus_wrapup.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/www.theroadforks.com/worldtrip/africa_in_focus_overland/africa_in_focus_wrapup.html">
+      <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
@@ -406,22 +330,42 @@
       <option name="filePath" />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run-script" />
       <scripts />
       <envs />
       <method />
     </configuration>
-    <configuration name="africa_in_focus_wrapup.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/www.theroadforks.com/worldtrip/africa_in_focus_overland/africa_in_focus_wrapup.html" />
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.africa_in_focus_wrapup.html" />
+    </list>
     <recent_temporary>
       <list size="1">
         <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.africa_in_focus_wrapup.html" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="StructuralSearchPlugin">
     <replaceConfiguration name="user defined" created="1509529137756" text="href='(.*?)'" recursive="false" caseInsensitive="true" type="HTML" reformatAccordingToStyle="true" shortenFQN="true" useStaticImport="true" replacement="href='(.*?)+.html'" history="1">
       <constraint name="__context__" target="true" within="" contains="" />
@@ -435,7 +379,6 @@
       <changelist id="eec42ef4-b7e3-4ed6-8358-351d92b4e89c" name="Default" comment="" />
       <created>1509106222077</created>
       <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
       <updated>1509106222077</updated>
       <workItem from="1509606909654" duration="649000" />
       <workItem from="1509607708543" duration="548000" />
@@ -461,26 +404,46 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1303" height="780" extended-state="6" />
+    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23474178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2323157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.4968701" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47906977" sideWeight="0.5062598" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2580645" sideWeight="0.4968701" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47906977" sideWeight="0.4968701" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.4968701" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47906977" sideWeight="0.5062598" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23454952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43870968" sideWeight="0.4968701" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -501,719 +464,329 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+    <entry file="file://$PROJECT_DIR$/worldtrip/africa_in_focus_overland/day_in_the_life_fish_river_canyon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state vertical-scroll-proportion="-8.708333">
+          <caret line="204" column="24" selection-start-line="204" selection-start-column="17" selection-end-line="204" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/offtheroad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offtheroad/chewy_baby.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offtheroad/blogging.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3132">
-          <caret line="174" column="16" lean-forward="false" selection-start-line="174" selection-start-column="16" selection-end-line="174" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gear/asus_eee_pad_slider.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="175" column="59" lean-forward="false" selection-start-line="175" selection-start-column="59" selection-end-line="175" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gear/canon_wpdc29_underwater_camera.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="175" column="59" lean-forward="false" selection-start-line="175" selection-start-column="59" selection-end-line="175" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gear/gadget-round-the-world-packing-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="175" column="59" lean-forward="false" selection-start-line="175" selection-start-column="59" selection-end-line="175" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gear/kindle_for_travelers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="175" column="59" lean-forward="false" selection-start-line="175" selection-start-column="59" selection-end-line="175" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gear/mans-round-the-world-packing-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="175" column="59" lean-forward="false" selection-start-line="175" selection-start-column="59" selection-end-line="175" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hts-cache/new.lst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27774">
-          <caret line="1543" column="16" lean-forward="false" selection-start-line="1543" selection-start-column="16" selection-end-line="1543" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gear/womans-round-the-world-packing-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="175" column="59" lean-forward="false" selection-start-line="175" selection-start-column="59" selection-end-line="175" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/gingerbread_muffins.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="1552" lean-forward="true" selection-start-line="175" selection-start-column="1552" selection-end-line="175" selection-end-column="1552" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/gingerbread_muffins5758.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="1551" lean-forward="true" selection-start-line="175" selection-start-column="1551" selection-end-line="175" selection-end-column="1551" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/goatcheesestuffedtomatoes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="174" column="36" lean-forward="false" selection-start-line="174" selection-start-column="36" selection-end-line="174" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/goatcheesestuffedtomatoes362b.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="175" column="369" lean-forward="false" selection-start-line="175" selection-start-column="369" selection-end-line="175" selection-end-column="369" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/grandma_oples_apple_pie5758.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="1523" lean-forward="false" selection-start-line="175" selection-start-column="1523" selection-end-line="175" selection-end-column="1523" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/homemadepastawithporcinis.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="1153" lean-forward="true" selection-start-line="175" selection-start-column="1153" selection-end-line="175" selection-end-column="1153" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/grilled_carrot_avocado_salad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="174" column="36" lean-forward="false" selection-start-line="174" selection-start-column="36" selection-end-line="174" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/how-to-grill-pizza.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="1333" lean-forward="false" selection-start-line="175" selection-start-column="1333" selection-end-line="175" selection-end-column="1333" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/jiaozi_chinese_dumplings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="176" column="6" lean-forward="true" selection-start-line="176" selection-start-column="6" selection-end-line="176" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/kozhakattai_sweet_coconut_dumplings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="1396" lean-forward="true" selection-start-line="175" selection-start-column="1396" selection-end-line="175" selection-end-column="1396" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/kozhakattai_sweet_coconut_dumplings5758.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="1273" lean-forward="true" selection-start-line="175" selection-start-column="1273" selection-end-line="175" selection-end-column="1273" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/lavender_ginger_creme_brulee.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="372" lean-forward="false" selection-start-line="175" selection-start-column="372" selection-end-line="175" selection-end-column="372" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/lavender_ginger_creme_brulee5758.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="1365" lean-forward="true" selection-start-line="175" selection-start-column="1365" selection-end-line="175" selection-end-column="1365" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/meyer_lemon_budino.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="175" column="1523" lean-forward="false" selection-start-line="175" selection-start-column="1523" selection-end-line="175" selection-end-column="1523" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/meyer_lemon_budino5758.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="175" column="2" lean-forward="false" selection-start-line="175" selection-start-column="2" selection-end-line="175" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/mujadara.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="175" column="1156" lean-forward="true" selection-start-line="175" selection-start-column="1156" selection-end-line="175" selection-end-column="1156" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/peach-tart-with-gingersnap-pecan-crust.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="1254" lean-forward="true" selection-start-line="175" selection-start-column="1254" selection-end-line="175" selection-end-column="1254" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/peach-tart-with-gingersnap-pecan-crust5758.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="1523" lean-forward="false" selection-start-line="175" selection-start-column="1523" selection-end-line="175" selection-end-column="1523" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/pressed-vegetarian-sandwich.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="175" column="1358" lean-forward="false" selection-start-line="175" selection-start-column="1358" selection-end-line="175" selection-end-column="1358" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/pupcakes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="507" lean-forward="true" selection-start-line="175" selection-start-column="507" selection-end-line="175" selection-end-column="507" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/side_dishes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="175" column="2" lean-forward="false" selection-start-line="175" selection-start-column="2" selection-end-line="175" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/spiced_chocolate_glacier_hiking.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="175" column="1523" lean-forward="false" selection-start-line="175" selection-start-column="1523" selection-end-line="175" selection-end-column="1523" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/spiced_chocolate_glacier_hiking5758.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="175" column="1523" lean-forward="false" selection-start-line="175" selection-start-column="1523" selection-end-line="175" selection-end-column="1523" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/stacked-beets-salad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="726" lean-forward="true" selection-start-line="175" selection-start-column="726" selection-end-line="175" selection-end-column="726" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/stacked-beets-salad362b.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="574" lean-forward="true" selection-start-line="175" selection-start-column="574" selection-end-line="175" selection-end-column="574" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/starters.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="175" column="656" lean-forward="true" selection-start-line="175" selection-start-column="656" selection-end-line="175" selection-end-column="656" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/steelers_potato_skins.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="665" lean-forward="true" selection-start-line="175" selection-start-column="665" selection-end-line="175" selection-end-column="665" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/steelers_potato_skins362b.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="721" lean-forward="true" selection-start-line="175" selection-start-column="721" selection-end-line="175" selection-end-column="721" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/strawberry_lemonade_yogurt_cake.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="175" column="1523" lean-forward="false" selection-start-line="175" selection-start-column="1523" selection-end-line="175" selection-end-column="1523" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/strawberry_lemonade_yogurt_cake5758.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="172" column="0" lean-forward="true" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/tropicalgranola.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="175" column="1206" lean-forward="true" selection-start-line="175" selection-start-column="1206" selection-end-line="175" selection-end-column="1206" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/tropicalgranola5758.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="175" column="1523" lean-forward="false" selection-start-line="175" selection-start-column="1523" selection-end-line="175" selection-end-column="1523" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/vegetable_summer_rolls.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="1032" lean-forward="true" selection-start-line="175" selection-start-column="1032" selection-end-line="175" selection-end-column="1032" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/vegetable_summer_rolls362b.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="741" lean-forward="true" selection-start-line="175" selection-start-column="741" selection-end-line="175" selection-end-column="741" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/white-beans-with-slow-roasted-tomatoes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="175" column="1144" lean-forward="false" selection-start-line="175" selection-start-column="1144" selection-end-line="175" selection-end-column="1144" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/whole-wheat-pizza-dough.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="175" column="1358" lean-forward="false" selection-start-line="175" selection-start-column="1358" selection-end-line="175" selection-end-column="1358" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/sweet_potatoes_three_ways.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="175" column="1023" lean-forward="true" selection-start-line="175" selection-start-column="1023" selection-end-line="175" selection-end-column="1023" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/carciofiripieni.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="180" column="12" lean-forward="false" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/main_dishes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="481" column="43" lean-forward="true" selection-start-line="481" selection-start-column="43" selection-end-line="481" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipearchives/desserts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="356" column="88" lean-forward="false" selection-start-line="356" selection-start-column="85" selection-end-line="356" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gear/canon_wpdc29_underwater_camera.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="175" column="59" lean-forward="false" selection-start-line="175" selection-start-column="59" selection-end-line="175" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gear/gadget-round-the-world-packing-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="175" column="59" lean-forward="false" selection-start-line="175" selection-start-column="59" selection-end-line="175" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gear/kindle_for_travelers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="175" column="59" lean-forward="false" selection-start-line="175" selection-start-column="59" selection-end-line="175" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gear/mans-round-the-world-packing-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="175" column="59" lean-forward="false" selection-start-line="175" selection-start-column="59" selection-end-line="175" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gear/womans-round-the-world-packing-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="175" column="59" lean-forward="false" selection-start-line="175" selection-start-column="59" selection-end-line="175" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="142" column="27" lean-forward="true" selection-start-line="142" selection-start-column="27" selection-end-line="142" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hts-cache/new.lst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27774">
-          <caret line="1543" column="16" lean-forward="false" selection-start-line="1543" selection-start-column="16" selection-end-line="1543" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offtheroad/newness_for_2012.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offtheroad/blogging.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="175" column="214" lean-forward="false" selection-start-line="175" selection-start-column="184" selection-end-line="175" selection-end-column="214" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offtheroad/chewy_baby.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offtheroad/gear.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="123" lean-forward="false" selection-start-line="3" selection-start-column="123" selection-end-line="3" selection-end-column="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offtheroad/musings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gear/asus_eee_pad_slider.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-699">
-          <caret line="175" column="1266" lean-forward="false" selection-start-line="175" selection-start-column="1265" selection-end-line="175" selection-end-column="1266" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offtheroad/deals/giveaways.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="237" column="146" lean-forward="false" selection-start-line="237" selection-start-column="141" selection-end-line="237" selection-end-column="146" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/countryPics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offtheroad/travel_planning.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offtheroad/3waystostrengthenmarriage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="795" column="1" lean-forward="false" selection-start-line="795" selection-start-column="1" selection-end-line="795" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/offtheroad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="28505" column="83" lean-forward="true" selection-start-line="28505" selection-start-column="83" selection-end-line="28505" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tagger/baby.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="327" column="7" lean-forward="false" selection-start-line="327" selection-start-column="7" selection-end-line="327" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/cambodia/silky_stylings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="535" column="169" lean-forward="false" selection-start-line="535" selection-start-column="169" selection-end-line="535" selection-end-column="169" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/lh5.ggpht.com/_vqAAFYgeDm8/TSClC-vZmpI/AAAAAAAAGVs/KE-0zc4uUNs/etosha_post_frontpic-5_160.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/newzealand/jaded_hokitika.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/africa_in_focus_overland/lions_wake.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="532" column="183" lean-forward="false" selection-start-line="532" selection-start-column="183" selection-end-line="532" selection-end-column="183" />
+        <state vertical-scroll-proportion="0.36925796">
+          <caret line="431" column="117" selection-start-line="431" selection-start-column="117" selection-end-line="431" selection-end-column="117" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/thailand/lovely_lampang.html">
+    <entry file="file://$PROJECT_DIR$/tagger/australasia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="555" column="169" lean-forward="false" selection-start-line="555" selection-start-column="169" selection-end-line="555" selection-end-column="169" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/turkey/lamps_grand_bazaar_istanbul.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="492" column="117" lean-forward="false" selection-start-line="492" selection-start-column="117" selection-end-line="492" selection-end-column="117" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/lh4.ggpht.com/_vqAAFYgeDm8/SsYAJuuztYI/AAAAAAAAA7U/fxc5cxWuoTY/sydney_walkingtour_12.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tagger/wildlife.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="8829" column="33" lean-forward="false" selection-start-line="8829" selection-start-column="33" selection-end-line="8829" selection-end-column="33" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/lh4.ggpht.com/_vqAAFYgeDm8/SsYAJuuztYI/AAAAAAAAA7U/fxc5cxWuoTY/sydney_walkingtour_12_48.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/africa_in_focus_overland/elephants_etosha.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="509" column="149" lean-forward="false" selection-start-line="509" selection-start-column="149" selection-end-line="509" selection-end-column="149" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/lh5.ggpht.com/_vqAAFYgeDm8/SsYAPFqS1YI/AAAAAAAAA7k/KavLcJ-Afds/sydney_walkingtour_16_48.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/africa_in_focus_overland/hippos_chobe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="555" column="62" lean-forward="false" selection-start-line="555" selection-start-column="62" selection-end-line="555" selection-end-column="62" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/lh6.ggpht.com/_vqAAFYgeDm8/TGHjKi2qdYI/AAAAAAAAEh4/meMp66TpJw0/south_korea_post_pic48.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/archives/travelPics/data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="58" column="10" lean-forward="true" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/lh6.ggpht.com/_vqAAFYgeDm8/TGHjKi2qdYI/AAAAAAAAEh4/meMp66TpJw0/south_korea_post_pic48b967.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/africa_in_focus_overland/25_lions_24_hours_etosha.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="562" column="175" lean-forward="false" selection-start-line="562" selection-start-column="175" selection-end-line="562" selection-end-column="175" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/lh6.ggpht.com/_vqAAFYgeDm8/TGHjKi2qdYI/AAAAAAAAEh4/meMp66TpJw0/south_korea_post_pic4826a3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/africa_in_focus_overland/cheetahs_awesome_namibia.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/australia/cheap-sydney-eats-mamak.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="577" column="0" lean-forward="true" selection-start-line="577" selection-start-column="0" selection-end-line="577" selection-end-column="0" />
+        <state vertical-scroll-proportion="-6.2083335">
+          <caret line="510" column="6" selection-start-line="510" selection-start-column="6" selection-end-line="510" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/africa_in_focus_overland/lions_rest_in_video.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/australia/sydney_by_foot_hydepark_to_circularquay.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="476" column="264" lean-forward="false" selection-start-line="476" selection-start-column="264" selection-end-line="476" selection-end-column="264" />
+        <state vertical-scroll-proportion="-8.708333">
+          <caret line="81" column="40" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/africa_in_focus_overland/the_wild_okavango_delta.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/australia/sydney_by_foot_circularquay_to_darlingharbour.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="683" column="280" lean-forward="false" selection-start-line="683" selection-start-column="280" selection-end-line="683" selection-end-column="280" />
+        <state vertical-scroll-proportion="0.36925796">
+          <caret line="81" column="40" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/africa_in_focus_overland/watering_holes_etosha.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/australia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="599" column="175" lean-forward="false" selection-start-line="599" selection-start-column="175" selection-end-line="599" selection-end-column="175" />
+        <state vertical-scroll-proportion="-3.0833333">
+          <caret line="471" column="70" selection-start-line="471" selection-start-column="70" selection-end-line="471" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/australia/koala_love_magnetic_island.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/australia/barossa_valley.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="561" column="185" lean-forward="false" selection-start-line="561" selection-start-column="185" selection-end-line="561" selection-end-column="185" />
+        <state vertical-scroll-proportion="-6.2083335">
+          <caret line="81" column="40" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/worldtrip/australia/the_great_ocean_road.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="597" column="274" lean-forward="false" selection-start-line="597" selection-start-column="274" selection-end-line="597" selection-end-column="274" />
+        <state vertical-scroll-proportion="-6.2083335">
+          <caret line="81" column="40" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/costa_rica/hummingbirds_flutter.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/australia/australia_the_lowdown.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="489" column="292" lean-forward="false" selection-start-line="489" selection-start-column="292" selection-end-line="489" selection-end-column="292" />
+        <state vertical-scroll-proportion="-8.708333">
+          <caret line="81" column="40" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/costa_rica/the_surprising_morpho_butterfly.html">
+    <entry file="file://$PROJECT_DIR$/offtheroad/3waystostrengthenmarriage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="491" column="191" lean-forward="false" selection-start-line="491" selection-start-column="191" selection-end-line="491" selection-end-column="191" />
+        <state vertical-scroll-proportion="0.36925796">
+          <caret line="370" column="232" selection-start-line="370" selection-start-column="232" selection-end-line="370" selection-end-column="232" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/japan/Buddha_deer.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/australia/countryPics/js5688">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="524" column="282" lean-forward="false" selection-start-line="524" selection-start-column="282" selection-end-line="524" selection-end-column="282" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/japan/hot_tub_monkey_machine_nagano.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/africa_in_focus_overland/countryPics/data">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="558" column="171" lean-forward="false" selection-start-line="558" selection-start-column="171" selection-end-line="558" selection-end-column="171" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/south_africa/kruger_butts.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/africa_in_focus_overland/travelPics/data">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3228">
-          <caret line="537" column="175" lean-forward="false" selection-start-line="537" selection-start-column="175" selection-end-line="537" selection-end-column="175" />
+        <state vertical-scroll-proportion="-1.2295082">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/south_africa/kruger_itineraries_and_lodges.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/africa_in_focus_overland/foodPics/data">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9954">
-          <caret line="553" column="284" lean-forward="false" selection-start-line="553" selection-start-column="284" selection-end-line="553" selection-end-column="284" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldtrip/australia/socialPics/data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldtrip/australia/countryPics/data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22881356">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldtrip/australia/travelPics/data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.4754095">
+          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldtrip/australia/foodPics/data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.076271184">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldtrip/newzealand/foodPics/css/lightview.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trips/hawaii2008/Tidbits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="154" column="2" selection-start-line="154" selection-start-column="2" selection-end-line="154" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lh4.ggpht.com/_vqAAFYgeDm8/SxapxWgQoTI/AAAAAAAABcE/PfJ_PBcgdX4/milford_sound_pic13.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lh4.ggpht.com/_vqAAFYgeDm8/SxapxWgQoTI/AAAAAAAABcE/PfJ_PBcgdX4/milford_sound_pic13_1280.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lh4.ggpht.com/_vqAAFYgeDm8/SxapcjEHlsI/AAAAAAAABbU/TVDSRMYVvqQ/milford_sound_pic2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lh4.ggpht.com/_vqAAFYgeDm8/SxapcjEHlsI/AAAAAAAABbU/TVDSRMYVvqQ/milford_sound_pic2_1280.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lh5.ggpht.com/_vqAAFYgeDm8/S6I3Wx2foNI/AAAAAAAADYo/ehSBkdtErW8/donegal_post_frontpic.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lh5.ggpht.com/_vqAAFYgeDm8/S6I3Wx2foNI/AAAAAAAADYo/ehSBkdtErW8/donegal_post_frontpic_160.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lh4.ggpht.com/_vqAAFYgeDm8/S84fm_N-OlI/AAAAAAAADpk/JmDStxTBZHQ/kampang_chnnang_post_frontp.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldtrip/newzealand/milford_sound.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5850467">
+          <caret line="515" column="92" selection-start-line="515" selection-start-column="92" selection-end-line="515" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldtrip/newzealand/canyon_swinging.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38878503">
+          <caret line="376" column="375" selection-start-line="376" selection-start-column="375" selection-end-line="376" selection-end-column="375" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lh6.ggpht.com/_vqAAFYgeDm8/SxgN-k4_UTI/AAAAAAAABdk/75hiuPazWSU/canyon_swinging_post_pic8_1280.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="121" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="121" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/south_africa/planning_a_kruger_trip.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9972">
-          <caret line="554" column="293" lean-forward="false" selection-start-line="554" selection-start-column="293" selection-end-line="554" selection-end-column="293" />
+        <state vertical-scroll-proportion="0.36925796">
+          <caret line="280" column="101" selection-start-line="280" selection-start-column="95" selection-end-line="280" selection-end-column="101" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/south_africa/south_africa_video.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/newzealand.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8460">
-          <caret line="470" column="288" lean-forward="false" selection-start-line="470" selection-start-column="288" selection-end-line="470" selection-end-column="288" />
+        <state vertical-scroll-proportion="-13.708333">
+          <caret line="506" column="9" selection-start-line="506" selection-start-column="9" selection-end-line="506" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/south_africa/surprising_addo.html">
+    <entry file="file://$PROJECT_DIR$/lh6.ggpht.com/_vqAAFYgeDm8/SlKEVAbLwCI/AAAAAAAAAaY/dEZorDWexWI/day7_post_image.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lh6.ggpht.com/_vqAAFYgeDm8/SlKEVAbLwCI/AAAAAAAAAaY/dEZorDWexWI/day7_post_imageb967.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lh6.ggpht.com/_vqAAFYgeDm8/SlKEVAbLwCI/AAAAAAAAAaY/dEZorDWexWI/day7_post_image_160.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldtrip/newzealand/marlborough_wines.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10044">
-          <caret line="558" column="264" lean-forward="false" selection-start-line="558" selection-start-column="264" selection-end-line="558" selection-end-column="264" />
+        <state vertical-scroll-proportion="0.36925796">
+          <caret line="540" column="106" selection-start-line="540" selection-start-column="106" selection-end-line="540" selection-end-column="106" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/south_africa/the_cape_drive.html">
+    <entry file="file://$PROJECT_DIR$/lh5.googleusercontent.com/-6Dr8mdixXTw/U-OHiVgQudI/AAAAAAAAalQ/dR3p3rv7FTE/india_processed (185 of 226)384a.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lh5.googleusercontent.com/-6Dr8mdixXTw/U-OHiVgQudI/AAAAAAAAalQ/dR3p3rv7FTE/india_processed%252520%252528185%252520of%252520226%252529.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldtrip/india.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9594">
-          <caret line="533" column="365" lean-forward="false" selection-start-line="533" selection-start-column="365" selection-end-line="533" selection-end-column="365" />
+        <state vertical-scroll-proportion="-8.708333">
+          <caret line="489" column="159" selection-start-line="489" selection-start-column="159" selection-end-line="489" selection-end-column="159" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/south_africa/the_ethics_of_shark_diving.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/india/countryPics/js/lightview.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10188">
-          <caret line="566" column="264" lean-forward="false" selection-start-line="566" selection-start-column="264" selection-end-line="566" selection-end-column="264" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/thailand/elephant_beauty.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/india/airavatesvara_temple.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10116">
-          <caret line="562" column="272" lean-forward="false" selection-start-line="562" selection-start-column="272" selection-end-line="562" selection-end-column="272" />
-          <folding />
+        <state vertical-scroll-proportion="-5.418182">
+          <caret line="620" column="60" selection-start-line="620" selection-start-column="60" selection-end-line="620" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldtrip/thailand/trained_by_elephants.html">
+    <entry file="file://$PROJECT_DIR$/worldtrip/india/pongal_mahabalipuram.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10332">
-          <caret line="574" column="302" lean-forward="false" selection-start-line="574" selection-start-column="302" selection-end-line="574" selection-end-column="302" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tagger/crafts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265608">
-          <caret line="14756" column="277" lean-forward="false" selection-start-line="14756" selection-start-column="277" selection-end-line="14756" selection-end-column="277" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/travelPics/data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.026501767">
+          <caret line="284" column="49" selection-start-line="284" selection-start-column="49" selection-end-line="284" selection-end-column="49" />
           <folding />
         </state>
       </provider>

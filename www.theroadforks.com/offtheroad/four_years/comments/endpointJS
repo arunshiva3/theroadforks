@@ -1,5 +1,5 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/offtheroad/four_years/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/offtheroad/four_years/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/offtheroad/four_years/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/offtheroad/four_years/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/offtheroad/four_years/comments";
+checkCaptchaEndpoint = "../offtheroad/four_years/comments/checkCaptcha";
+addCommentEndpoint = "../offtheroad/four_years/comments/addComment";
+getCommentEndpoint = "../offtheroad/four_years/comments/content_comment";
+deleteCommentsEndpoint = "../offtheroad/four_years/comments/deleteComments";
+checkForSpamEndpoint = "../offtheroad/four_years/comments";
