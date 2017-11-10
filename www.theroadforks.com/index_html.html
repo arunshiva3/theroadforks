@@ -223,7 +223,7 @@
 
         <div class="front_map">
             <div class="where_we_are"></div>
-            <div class="map_front">  <script type='text/javascript' src='ammap/swfobjectjs.js'></script>
+            <div class="map_front">  <script type='text/javascript' src='http://www.theroadforks.com/ammap/swfobjectjs'></script>
                 <div id='//travel/ammap'>
                     <i>You need to upgrade your Flash Player</i>
                 </div>
@@ -231,10 +231,10 @@
                 <script type='text/javascript'>
                     // <![CDATA[
 
-                    var so = new SWFObject('ammap/ammapswf.swf', 'ammap', '640', '427', '8', '#444444');
-                    so.addVariable('path', 'ammap/index.html');
-                    so.addVariable('settings_file', escape('ammap/ammap_settings.html'));
-                    so.addVariable('data_file', escape('ammap/ammap_data.html'));
+                    var so = new SWFObject('http://www.theroadforks.com/ammap/ammapswf', 'ammap', '300', '220', '8', '#444444');
+                    so.addVariable('path', 'http://www.theroadforks.com/ammap/');
+                    so.addVariable('settings_file', escape('http://www.theroadforks.com/ammap/ammap_settings'));
+                    so.addVariable('data_file', escape('http://www.theroadforks.com/ammap/ammap_data'));
                     if (navigator.appName=='Microsoft Internet Explorer') {
                         window.onload = function() { so.write('flashcontent'); }
                     } else {
