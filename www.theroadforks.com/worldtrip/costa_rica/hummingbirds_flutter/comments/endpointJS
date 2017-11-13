@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/hummingbirds_flutter/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/hummingbirds_flutter/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/hummingbirds_flutter/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/hummingbirds_flutter/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/hummingbirds_flutter/comments";

@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/spain/changing_perceptions_madrid/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/spain/changing_perceptions_madrid/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/spain/changing_perceptions_madrid/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/spain/changing_perceptions_madrid/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/spain/changing_perceptions_madrid/comments";

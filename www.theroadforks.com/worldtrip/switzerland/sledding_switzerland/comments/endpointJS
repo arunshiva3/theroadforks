@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/switzerland/sledding_switzerland/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/switzerland/sledding_switzerland/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/switzerland/sledding_switzerland/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/switzerland/sledding_switzerland/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/switzerland/sledding_switzerland/comments";

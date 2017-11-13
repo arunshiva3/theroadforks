@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/croatia/zagreb_market/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/croatia/zagreb_market/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/croatia/zagreb_market/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/croatia/zagreb_market/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/croatia/zagreb_market/comments";

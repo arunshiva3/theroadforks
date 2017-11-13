@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/italy/views_of_siena/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/italy/views_of_siena/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/italy/views_of_siena/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/italy/views_of_siena/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/italy/views_of_siena/comments";

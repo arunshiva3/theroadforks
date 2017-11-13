@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "../offtheroad/travel_blogging_ethics_sponsorships/comments/checkCaptcha";
-addCommentEndpoint = "../offtheroad/travel_blogging_ethics_sponsorships/comments/addComment";
-getCommentEndpoint = "../offtheroad/travel_blogging_ethics_sponsorships/comments/content_comment";
-deleteCommentsEndpoint = "../offtheroad/travel_blogging_ethics_sponsorships/comments/deleteComments";
-checkForSpamEndpoint = "../offtheroad/travel_blogging_ethics_sponsorships/comments";

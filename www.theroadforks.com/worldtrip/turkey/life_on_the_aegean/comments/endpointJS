@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/turkey/life_on_the_aegean/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/life_on_the_aegean/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/life_on_the_aegean/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/turkey/life_on_the_aegean/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/turkey/life_on_the_aegean/comments";

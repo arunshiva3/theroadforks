@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/unexceptional_wonder_kompong_chhnang/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/unexceptional_wonder_kompong_chhnang/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/unexceptional_wonder_kompong_chhnang/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/unexceptional_wonder_kompong_chhnang/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/unexceptional_wonder_kompong_chhnang/comments";

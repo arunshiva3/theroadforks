@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/thailand/asia_scenic_cooking_class_chiang_mai/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/thailand/asia_scenic_cooking_class_chiang_mai/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/thailand/asia_scenic_cooking_class_chiang_mai/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/thailand/asia_scenic_cooking_class_chiang_mai/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/thailand/asia_scenic_cooking_class_chiang_mai/comments";

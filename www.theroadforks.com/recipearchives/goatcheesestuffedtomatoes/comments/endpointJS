@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/recipearchives/goatcheesestuffedtomatoes/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/recipearchives/goatcheesestuffedtomatoes/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/recipearchives/goatcheesestuffedtomatoes/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/recipearchives/goatcheesestuffedtomatoes/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/recipearchives/goatcheesestuffedtomatoes/comments";

@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/japan/kyoto_for_free/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/japan/kyoto_for_free/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/japan/kyoto_for_free/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/japan/kyoto_for_free/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/japan/kyoto_for_free/comments";

@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/england/london_at_night/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/london_at_night/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/london_at_night/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/england/london_at_night/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/england/london_at_night/comments";

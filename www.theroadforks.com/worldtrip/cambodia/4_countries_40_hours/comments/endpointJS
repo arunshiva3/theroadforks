@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/4_countries_40_hours/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/4_countries_40_hours/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/4_countries_40_hours/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/4_countries_40_hours/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/4_countries_40_hours/comments";

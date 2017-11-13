@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/japan/buy_a_japan_rail_pass_or_not/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/japan/buy_a_japan_rail_pass_or_not/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/japan/buy_a_japan_rail_pass_or_not/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/japan/buy_a_japan_rail_pass_or_not/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/japan/buy_a_japan_rail_pass_or_not/comments";

@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/italy/portrait_of_pisa/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/italy/portrait_of_pisa/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/italy/portrait_of_pisa/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/italy/portrait_of_pisa/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/italy/portrait_of_pisa/comments";

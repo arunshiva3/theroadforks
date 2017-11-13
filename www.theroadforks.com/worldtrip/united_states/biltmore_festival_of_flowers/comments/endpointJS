@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/united_states/biltmore_festival_of_flowers/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/united_states/biltmore_festival_of_flowers/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/united_states/biltmore_festival_of_flowers/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/united_states/biltmore_festival_of_flowers/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/united_states/biltmore_festival_of_flowers/comments";

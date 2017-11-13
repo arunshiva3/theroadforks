@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/united_states/fig_charleston/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/united_states/fig_charleston/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/united_states/fig_charleston/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/united_states/fig_charleston/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/united_states/fig_charleston/comments";

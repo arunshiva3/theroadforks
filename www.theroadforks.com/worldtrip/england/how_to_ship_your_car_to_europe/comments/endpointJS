@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/england/how_to_ship_your_car_to_europe/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/how_to_ship_your_car_to_europe/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/how_to_ship_your_car_to_europe/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/england/how_to_ship_your_car_to_europe/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/england/how_to_ship_your_car_to_europe/comments";

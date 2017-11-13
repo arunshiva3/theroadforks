@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/spain/fonta_magica_weekly_photo/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/spain/fonta_magica_weekly_photo/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/spain/fonta_magica_weekly_photo/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/spain/fonta_magica_weekly_photo/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/spain/fonta_magica_weekly_photo/comments";

@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/finding_relaxation_wild_coast/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/finding_relaxation_wild_coast/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/finding_relaxation_wild_coast/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/finding_relaxation_wild_coast/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/finding_relaxation_wild_coast/comments";

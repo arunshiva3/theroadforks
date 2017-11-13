@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/hungary/eat_budapest/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/hungary/eat_budapest/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/hungary/eat_budapest/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/hungary/eat_budapest/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/hungary/eat_budapest/comments";

@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/china/when_travel_sucks_china/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/china/when_travel_sucks_china/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/china/when_travel_sucks_china/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/china/when_travel_sucks_china/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/china/when_travel_sucks_china/comments";

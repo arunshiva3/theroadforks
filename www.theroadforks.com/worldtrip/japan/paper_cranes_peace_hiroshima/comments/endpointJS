@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/japan/paper_cranes_peace_hiroshima/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/japan/paper_cranes_peace_hiroshima/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/japan/paper_cranes_peace_hiroshima/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/japan/paper_cranes_peace_hiroshima/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/japan/paper_cranes_peace_hiroshima/comments";

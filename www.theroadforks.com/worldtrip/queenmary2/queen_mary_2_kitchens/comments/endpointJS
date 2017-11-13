@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/queenmary2/queen_mary_2_kitchens/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/queenmary2/queen_mary_2_kitchens/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/queenmary2/queen_mary_2_kitchens/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/queenmary2/queen_mary_2_kitchens/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/queenmary2/queen_mary_2_kitchens/comments";

@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/england/cornwall_gardens/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/cornwall_gardens/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/cornwall_gardens/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/england/cornwall_gardens/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/england/cornwall_gardens/comments";

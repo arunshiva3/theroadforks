@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/croatia/weekly_photo_plitvice_national_park/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/croatia/weekly_photo_plitvice_national_park/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/croatia/weekly_photo_plitvice_national_park/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/croatia/weekly_photo_plitvice_national_park/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/croatia/weekly_photo_plitvice_national_park/comments";

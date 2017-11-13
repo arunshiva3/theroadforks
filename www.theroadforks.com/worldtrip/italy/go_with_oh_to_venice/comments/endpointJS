@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/italy/go_with_oh_to_venice/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/italy/go_with_oh_to_venice/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/italy/go_with_oh_to_venice/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/italy/go_with_oh_to_venice/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/italy/go_with_oh_to_venice/comments";

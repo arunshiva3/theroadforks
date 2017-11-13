@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/china/lost_in_translation/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/china/lost_in_translation/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/china/lost_in_translation/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/china/lost_in_translation/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/china/lost_in_translation/comments";

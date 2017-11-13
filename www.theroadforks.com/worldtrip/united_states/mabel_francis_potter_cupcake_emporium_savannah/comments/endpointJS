@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/united_states/mabel_francis_potter_cupcake_emporium_savannah/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/united_states/mabel_francis_potter_cupcake_emporium_savannah/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/united_states/mabel_francis_potter_cupcake_emporium_savannah/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/united_states/mabel_francis_potter_cupcake_emporium_savannah/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/united_states/mabel_francis_potter_cupcake_emporium_savannah/comments";

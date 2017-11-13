@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/england/on_the_moors/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/on_the_moors/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/on_the_moors/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/england/on_the_moors/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/england/on_the_moors/comments";

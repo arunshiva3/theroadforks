@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/turkey/beyond_sultanahmet_istanbuls_neighborhoods/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/beyond_sultanahmet_istanbuls_neighborhoods/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/beyond_sultanahmet_istanbuls_neighborhoods/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/turkey/beyond_sultanahmet_istanbuls_neighborhoods/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/turkey/beyond_sultanahmet_istanbuls_neighborhoods/comments";

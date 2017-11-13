@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/spain/adventuring_in_catalunya/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/spain/adventuring_in_catalunya/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/spain/adventuring_in_catalunya/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/spain/adventuring_in_catalunya/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/spain/adventuring_in_catalunya/comments";

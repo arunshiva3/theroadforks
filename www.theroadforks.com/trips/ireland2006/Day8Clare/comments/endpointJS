@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day8Clare/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day8Clare/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day8Clare/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day8Clare/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day8Clare/comments";

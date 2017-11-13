@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/united_states/elizabeths_on_37th/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/united_states/elizabeths_on_37th/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/united_states/elizabeths_on_37th/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/united_states/elizabeths_on_37th/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/united_states/elizabeths_on_37th/comments";

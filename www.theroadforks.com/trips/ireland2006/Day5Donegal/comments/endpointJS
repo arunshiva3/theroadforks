@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day5Donegal/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day5Donegal/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day5Donegal/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day5Donegal/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day5Donegal/comments";

@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/planning_a_kruger_trip/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/planning_a_kruger_trip/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/planning_a_kruger_trip/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/planning_a_kruger_trip/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/planning_a_kruger_trip/comments";

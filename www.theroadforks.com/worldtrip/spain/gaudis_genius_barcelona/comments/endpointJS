@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/spain/gaudis_genius_barcelona/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/spain/gaudis_genius_barcelona/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/spain/gaudis_genius_barcelona/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/spain/gaudis_genius_barcelona/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/spain/gaudis_genius_barcelona/comments";

@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/india/pongal_mahabalipuram/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/india/pongal_mahabalipuram/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/india/pongal_mahabalipuram/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/india/pongal_mahabalipuram/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/india/pongal_mahabalipuram/comments";

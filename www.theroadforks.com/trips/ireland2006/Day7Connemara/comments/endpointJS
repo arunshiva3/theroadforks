@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day7Connemara/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day7Connemara/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day7Connemara/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day7Connemara/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/trips/ireland2006/Day7Connemara/comments";

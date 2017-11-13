@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "../offtheroad/3waystostrengthenmarriage/comments/checkCaptcha";
-addCommentEndpoint = "../offtheroad/3waystostrengthenmarriage/comments/addComment";
-getCommentEndpoint = "../offtheroad/3waystostrengthenmarriage/comments/content_comment";
-deleteCommentsEndpoint = "../offtheroad/3waystostrengthenmarriage/comments/deleteComments";
-checkForSpamEndpoint = "../offtheroad/3waystostrengthenmarriage/comments";

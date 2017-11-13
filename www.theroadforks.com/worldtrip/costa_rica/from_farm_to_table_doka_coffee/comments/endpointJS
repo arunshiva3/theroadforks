@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/from_farm_to_table_doka_coffee/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/from_farm_to_table_doka_coffee/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/from_farm_to_table_doka_coffee/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/from_farm_to_table_doka_coffee/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/from_farm_to_table_doka_coffee/comments";

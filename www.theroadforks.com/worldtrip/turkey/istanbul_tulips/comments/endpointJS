@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/turkey/istanbul_tulips/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/istanbul_tulips/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/istanbul_tulips/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/turkey/istanbul_tulips/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/turkey/istanbul_tulips/comments";

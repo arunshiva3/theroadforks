@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "../offtheroad/taste_of_two_years/comments/checkCaptcha";
-addCommentEndpoint = "../offtheroad/taste_of_two_years/comments/addComment";
-getCommentEndpoint = "../offtheroad/taste_of_two_years/comments/content_comment";
-deleteCommentsEndpoint = "../offtheroad/taste_of_two_years/comments/deleteComments";
-checkForSpamEndpoint = "../offtheroad/taste_of_two_years/comments";

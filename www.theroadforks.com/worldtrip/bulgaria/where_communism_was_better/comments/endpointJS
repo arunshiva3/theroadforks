@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/bulgaria/where_communism_was_better/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/bulgaria/where_communism_was_better/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/bulgaria/where_communism_was_better/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/bulgaria/where_communism_was_better/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/bulgaria/where_communism_was_better/comments";

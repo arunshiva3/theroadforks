@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/china/how_to_do_world_expo_2010_shanghai/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/china/how_to_do_world_expo_2010_shanghai/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/china/how_to_do_world_expo_2010_shanghai/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/china/how_to_do_world_expo_2010_shanghai/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/china/how_to_do_world_expo_2010_shanghai/comments";

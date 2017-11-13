@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/jamaica/uncultured_luxury_at_couples/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/jamaica/uncultured_luxury_at_couples/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/jamaica/uncultured_luxury_at_couples/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/jamaica/uncultured_luxury_at_couples/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/jamaica/uncultured_luxury_at_couples/comments";

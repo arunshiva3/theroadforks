@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/bulgaria/bulgaria_the_low_down/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/bulgaria/bulgaria_the_low_down/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/bulgaria/bulgaria_the_low_down/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/bulgaria/bulgaria_the_low_down/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/bulgaria/bulgaria_the_low_down/comments";

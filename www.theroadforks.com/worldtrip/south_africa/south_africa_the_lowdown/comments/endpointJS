@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/south_africa_the_lowdown/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/south_africa_the_lowdown/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/south_africa_the_lowdown/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/south_africa_the_lowdown/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/south_africa_the_lowdown/comments";

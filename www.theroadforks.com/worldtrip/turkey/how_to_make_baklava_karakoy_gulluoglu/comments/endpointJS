@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/turkey/how_to_make_baklava_karakoy_gulluoglu/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/how_to_make_baklava_karakoy_gulluoglu/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/how_to_make_baklava_karakoy_gulluoglu/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/turkey/how_to_make_baklava_karakoy_gulluoglu/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/turkey/how_to_make_baklava_karakoy_gulluoglu/comments";

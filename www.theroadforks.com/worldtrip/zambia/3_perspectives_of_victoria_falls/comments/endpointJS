@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/zambia/3_perspectives_of_victoria_falls/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/zambia/3_perspectives_of_victoria_falls/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/zambia/3_perspectives_of_victoria_falls/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/zambia/3_perspectives_of_victoria_falls/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/zambia/3_perspectives_of_victoria_falls/comments";

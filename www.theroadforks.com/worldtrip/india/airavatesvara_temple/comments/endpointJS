@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/india/airavatesvara_temple/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/india/airavatesvara_temple/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/india/airavatesvara_temple/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/india/airavatesvara_temple/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/india/airavatesvara_temple/comments";

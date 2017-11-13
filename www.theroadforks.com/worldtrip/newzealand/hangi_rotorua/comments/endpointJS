@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/newzealand/hangi_rotorua/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/newzealand/hangi_rotorua/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/newzealand/hangi_rotorua/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/newzealand/hangi_rotorua/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/newzealand/hangi_rotorua/comments";

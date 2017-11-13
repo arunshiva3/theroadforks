@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/thailand/sukhothai_in_sepia/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/thailand/sukhothai_in_sepia/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/thailand/sukhothai_in_sepia/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/thailand/sukhothai_in_sepia/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/thailand/sukhothai_in_sepia/comments";

@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/italy/magnificent_pompeii/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/italy/magnificent_pompeii/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/italy/magnificent_pompeii/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/italy/magnificent_pompeii/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/italy/magnificent_pompeii/comments";

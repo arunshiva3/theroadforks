@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/austria/suddenness_and_stillness_vienna/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/austria/suddenness_and_stillness_vienna/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/austria/suddenness_and_stillness_vienna/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/austria/suddenness_and_stillness_vienna/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/austria/suddenness_and_stillness_vienna/comments";

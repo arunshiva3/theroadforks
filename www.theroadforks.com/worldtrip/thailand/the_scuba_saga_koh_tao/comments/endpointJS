@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/thailand/the_scuba_saga_koh_tao/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/thailand/the_scuba_saga_koh_tao/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/thailand/the_scuba_saga_koh_tao/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/thailand/the_scuba_saga_koh_tao/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/thailand/the_scuba_saga_koh_tao/comments";

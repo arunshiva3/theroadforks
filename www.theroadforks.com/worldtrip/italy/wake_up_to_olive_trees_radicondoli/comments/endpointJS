@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/italy/wake_up_to_olive_trees_radicondoli/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/italy/wake_up_to_olive_trees_radicondoli/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/italy/wake_up_to_olive_trees_radicondoli/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/italy/wake_up_to_olive_trees_radicondoli/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/italy/wake_up_to_olive_trees_radicondoli/comments";

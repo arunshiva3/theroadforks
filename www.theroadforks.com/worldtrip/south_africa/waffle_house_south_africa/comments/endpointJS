@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/waffle_house_south_africa/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/waffle_house_south_africa/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/waffle_house_south_africa/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/waffle_house_south_africa/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/waffle_house_south_africa/comments";

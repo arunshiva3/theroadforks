@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/south_africa_video/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/south_africa_video/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/south_africa_video/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/south_africa_video/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/south_africa_video/comments";

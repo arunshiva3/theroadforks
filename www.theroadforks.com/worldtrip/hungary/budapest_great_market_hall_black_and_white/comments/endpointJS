@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/hungary/budapest_great_market_hall_black_and_white/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/hungary/budapest_great_market_hall_black_and_white/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/hungary/budapest_great_market_hall_black_and_white/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/hungary/budapest_great_market_hall_black_and_white/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/hungary/budapest_great_market_hall_black_and_white/comments";

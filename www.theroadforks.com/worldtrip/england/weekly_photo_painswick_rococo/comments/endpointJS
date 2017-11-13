@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/england/weekly_photo_painswick_rococo/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/weekly_photo_painswick_rococo/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/weekly_photo_painswick_rococo/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/england/weekly_photo_painswick_rococo/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/england/weekly_photo_painswick_rococo/comments";

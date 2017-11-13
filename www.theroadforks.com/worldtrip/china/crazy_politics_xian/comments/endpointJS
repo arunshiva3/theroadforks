@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/china/crazy_politics_xian/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/china/crazy_politics_xian/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/china/crazy_politics_xian/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/china/crazy_politics_xian/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/china/crazy_politics_xian/comments";

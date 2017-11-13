@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/england/changing_guards_buckingham_palace/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/changing_guards_buckingham_palace/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/changing_guards_buckingham_palace/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/england/changing_guards_buckingham_palace/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/england/changing_guards_buckingham_palace/comments";

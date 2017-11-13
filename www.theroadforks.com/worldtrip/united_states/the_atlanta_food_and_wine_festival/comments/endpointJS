@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/united_states/the_atlanta_food_and_wine_festival/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/united_states/the_atlanta_food_and_wine_festival/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/united_states/the_atlanta_food_and_wine_festival/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/united_states/the_atlanta_food_and_wine_festival/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/united_states/the_atlanta_food_and_wine_festival/comments";

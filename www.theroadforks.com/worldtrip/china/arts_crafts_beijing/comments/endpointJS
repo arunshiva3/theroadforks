@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/china/arts_crafts_beijing/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/china/arts_crafts_beijing/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/china/arts_crafts_beijing/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/china/arts_crafts_beijing/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/china/arts_crafts_beijing/comments";

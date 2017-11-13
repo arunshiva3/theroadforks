@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/the_currency_of_kindness/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/the_currency_of_kindness/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/the_currency_of_kindness/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/the_currency_of_kindness/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/the_currency_of_kindness/comments";

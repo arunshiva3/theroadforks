@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/battambang_bamboo_train/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/battambang_bamboo_train/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/battambang_bamboo_train/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/battambang_bamboo_train/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/cambodia/battambang_bamboo_train/comments";

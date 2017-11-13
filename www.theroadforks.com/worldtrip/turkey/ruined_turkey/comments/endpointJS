@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/turkey/ruined_turkey/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/ruined_turkey/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/ruined_turkey/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/turkey/ruined_turkey/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/turkey/ruined_turkey/comments";

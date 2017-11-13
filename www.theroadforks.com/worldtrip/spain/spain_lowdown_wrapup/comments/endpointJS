@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/spain/spain_lowdown_wrapup/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/spain/spain_lowdown_wrapup/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/spain/spain_lowdown_wrapup/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/spain/spain_lowdown_wrapup/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/spain/spain_lowdown_wrapup/comments";

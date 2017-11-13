@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/skirts_swirl_costa_rica/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/skirts_swirl_costa_rica/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/skirts_swirl_costa_rica/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/skirts_swirl_costa_rica/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/costa_rica/skirts_swirl_costa_rica/comments";

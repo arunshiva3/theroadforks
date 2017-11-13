@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/japan/12_hours_in_nikko/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/japan/12_hours_in_nikko/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/japan/12_hours_in_nikko/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/japan/12_hours_in_nikko/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/japan/12_hours_in_nikko/comments";

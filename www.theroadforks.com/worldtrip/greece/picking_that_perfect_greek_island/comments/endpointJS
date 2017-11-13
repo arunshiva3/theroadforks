@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/greece/picking_that_perfect_greek_island/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/greece/picking_that_perfect_greek_island/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/greece/picking_that_perfect_greek_island/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/greece/picking_that_perfect_greek_island/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/greece/picking_that_perfect_greek_island/comments";

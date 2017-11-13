@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/africa_in_focus_overland/cheetahs_awesome_namibia/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/africa_in_focus_overland/cheetahs_awesome_namibia/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/africa_in_focus_overland/cheetahs_awesome_namibia/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/africa_in_focus_overland/cheetahs_awesome_namibia/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/africa_in_focus_overland/cheetahs_awesome_namibia/comments";

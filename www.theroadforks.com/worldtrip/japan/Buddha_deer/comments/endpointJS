@@ -1,5 +1,0 @@
-checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/japan/Buddha_deer/comments/checkCaptcha";
-addCommentEndpoint = "http://www.theroadforks.com/worldtrip/japan/Buddha_deer/comments/addComment";
-getCommentEndpoint = "http://www.theroadforks.com/worldtrip/japan/Buddha_deer/comments/content_comment";
-deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/japan/Buddha_deer/comments/deleteComments";
-checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/japan/Buddha_deer/comments";
