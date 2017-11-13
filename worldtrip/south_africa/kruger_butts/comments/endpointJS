@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/kruger_butts/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/kruger_butts/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/kruger_butts/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/kruger_butts/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/south_africa/kruger_butts/comments";

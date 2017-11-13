@@ -1,0 +1,5 @@
+function trackAd(link) {
+  _gaq.push(['_trackEvent', 'Ads', 'Click', link.title]);
+  setTimeout('document.location = "' + link.href + '"', 100);
+  return false;
+}

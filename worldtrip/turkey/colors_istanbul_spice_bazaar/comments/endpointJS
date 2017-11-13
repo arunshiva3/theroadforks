@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/turkey/colors_istanbul_spice_bazaar/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/colors_istanbul_spice_bazaar/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/turkey/colors_istanbul_spice_bazaar/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/turkey/colors_istanbul_spice_bazaar/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/turkey/colors_istanbul_spice_bazaar/comments";

@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/austria/schonbrunn_castle_in_pictures/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/austria/schonbrunn_castle_in_pictures/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/austria/schonbrunn_castle_in_pictures/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/austria/schonbrunn_castle_in_pictures/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/austria/schonbrunn_castle_in_pictures/comments";

@@ -1,0 +1,15 @@
+body, .main {  width: 1200px; }
+
+.right { width: 856px; }
+
+.slider_caption { width: 400px; }
+
+a.home, a.home:hover, a.home_selected, a.travel, a.travel:hover, a.travel_selected, a.recipes, a.recipes:hover, a.recipes_selected, a.offtheroad, a.offtheroad:hover, a.offtheroad_selected, a.archives, a.archives:hover, a.archives_selected { margin-left: 5px; margin-right: 5px; }
+
+.front_featured_in { display: none; }
+
+#featured_posts { width: 630px; }
+
+.related_posts_wrapper, .related_posts { width: 400px; }
+
+.sharebar { margin-left: 370px; top: 197px; }

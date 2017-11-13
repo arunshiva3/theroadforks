@@ -1,0 +1,180 @@
+  String.prototype.trim = function () {
+    return this.replace(/^\s*/, "").replace(/\s*$/, "");
+  }
+
+      function LightviewReload() {
+        window.parent.Lightview.hide();
+        setTimeout( "reloadPage();", 750);
+      }
+
+      function reloadPage() {
+        window.location.reload();
+      }
+
+      function isEnterEvent(e) {
+        var characterCode;
+
+        if(e && e.which) {
+          e = e;
+          characterCode = e.which;
+        } else {
+          e = event;
+          characterCode = e.keyCode;
+        }
+
+        if (characterCode == 13) { 
+          return true;
+        }
+        return false;
+      }
+
+function appendReference(ref, refs) {
+  var ar = [];
+  if (refs.trim() != "") {
+    ar = refs.trim().split(",");
+  }
+  ar[ar.length] = ref;
+  refs = ar.join(",")
+  return refs;
+}
+
+function toggleById(id, removeLink) {
+  var a = document.getElementById(id + "Toggle");
+  var text = a.innerHTML;
+  if (text.toLowerCase().startsWith("hide")) {
+    Effect.SlideUp(id);
+    a.innerHTML = "Show" + text.substring(4);
+  } else {
+    Effect.SlideDown(id);    
+    a.innerHTML = "Hide" + text.substring(4);
+  }
+  if (removeLink) {
+    a.style.display = "none";
+  } else {
+    Effect. Highlight(a);
+  }
+}
+
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return '';
+}
+
+function eraseCookie(name) {
+	createCookie(name,"",-1);
+}
+
+function removeChildren(node) {
+  while (node.hasChildNodes()) {
+    node.removeChild(node.firstChild);
+  }
+}
+
+function gup( name, value )
+{
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( window.location.href );
+  if( results == null ) {
+    if (value) { return value; }
+    return "";
+  } else {
+    return results[1];
+  }
+}
+
+function sizePicasaPic(src, size) {
+  var index = src.indexOf("imgmax=");
+  if (index == -1) { 
+    src += "?"; 
+    index = src.length;
+  }
+  src = src.substring(0, index) + "imgmax=" + size;
+  return src;
+}
+
+function unsizePicasaPic(src) {
+  var index = src.indexOf("imgmax=");
+  if (index == -1) { return src; }
+
+  var index2 = src.indexOf("&", index);
+  if (index2 == -1) { index2 = src.length; }
+  if (index > 0) { index = index - 1; }
+  
+  src = src.substring(0, index) + src.substring(index2, src.length);
+
+  return src;
+}
+
+function getEventTarget(e) {
+  var targ = null;
+
+  if (!e) { e = window.event; }
+  if (e.target) { targ = e.target; }
+  else if (e.srcElement) { targ = e.srcElement; }
+  if (targ.nodeType == 3) { targ = targ.parentNode; } // defeat Safari bug
+		
+  return targ;
+}
+
+function getServerFromLink(link) {
+  var index = link.indexOf('//');
+  if (index != -1) { link = link.substring(index+2); }
+  index = link.indexOf('/');
+  if (index != -1) { link = link.substring(0, index); }
+  index = link.indexOf('www.');
+  if (index == 0) { link = link.substring(4); }
+
+  return link;
+}
+
+var linkoutSkip = [ "ggpht.com", "javascript", "mailto" ];
+
+function linkout() {
+  var href = jQuery(this).attr('href');
+  /* href = getServerFromLink(href); */
+
+  var found = false;
+  for (var i = 0; i < linkoutSkip.length; i++) {
+    var skip = linkoutSkip[i];
+
+    if (href.indexOf(skip) != -1) {
+      found = true;
+      break;
+    }
+  }
+  if (! found) {
+    _gaq.push(['_trackEvent', 'Link Out' ,  href ]);
+    setTimeout('document.location = "' + href + '"', 100);
+  
+    return false;
+  }
+  return true;
+}
+
+jQuery(document).ready(function() {
+  jQuery('a[href]').each(function() {
+    var href = jQuery(this).attr('href');
+    var server = getServerFromLink(href);
+    if (server != getServerFromLink(window.location + '')) { 
+      jQuery(this).bind('click', linkout);
+    }
+  });
+});

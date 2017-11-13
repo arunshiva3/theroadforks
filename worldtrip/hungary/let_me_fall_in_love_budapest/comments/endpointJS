@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/hungary/let_me_fall_in_love_budapest/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/hungary/let_me_fall_in_love_budapest/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/hungary/let_me_fall_in_love_budapest/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/hungary/let_me_fall_in_love_budapest/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/hungary/let_me_fall_in_love_budapest/comments";

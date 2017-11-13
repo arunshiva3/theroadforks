@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/england/beautiful_bath/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/beautiful_bath/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/beautiful_bath/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/england/beautiful_bath/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/england/beautiful_bath/comments";

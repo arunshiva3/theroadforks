@@ -1,0 +1,16 @@
+{
+  "pics": [
+    {
+      "url": "../recipearchives.html",
+      "alt": "Recipes",
+      "img": "lh5.ggpht.com/_vqAAFYgeDm8/TRvC_Dd1x3I/AAAAAAAAFkw/PqhW5yyK7po/s800/recipes_cat_pic2.jpg",
+      "img_highlight": "lh5.ggpht.com/_vqAAFYgeDm8/TRvC_Dd1x3I/AAAAAAAAFkw/PqhW5yyK7po/s800/recipes_cat_pic2.jpg"
+    },
+    {
+      "url": "../tagger/global_cusine.html",
+      "alt": "Global Cuisine",
+      "img": "lh3.ggpht.com/global_cuisine_cat_pic_800.jpg",
+      "img_highlight": "lh3.ggpht.com/global_cuisine_cat_pic_800.jpg"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/england/a_conversation_with_uk_customs/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/a_conversation_with_uk_customs/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/england/a_conversation_with_uk_customs/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/england/a_conversation_with_uk_customs/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/england/a_conversation_with_uk_customs/comments";

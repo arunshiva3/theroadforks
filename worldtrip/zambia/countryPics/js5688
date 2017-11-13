@@ -1,0 +1,219 @@
+function renderPicLinks(id, baseUrl, editable) {
+  var div = $j('#' + id).get(0);
+  $j.data(div, 'baseUrl', baseUrl);
+  $j.data(div, 'editable', editable);
+
+  $j.ajax({
+    url: baseUrl + "/data",
+    context: div,
+    success: function(data) {
+      if (data == null || data == "") { data = { pics: [] }; }
+      else { data = JSON.parse(data); }
+      $j('#' + this.id).data('data', data);
+      renderPicLinksContent(this);
+    }
+  });
+}
+
+function renderPicLinksContent(div) {
+  var data = $j('#' + div.id).data('data');
+  var editable = $j('#' + div.id).data('editable');
+  if (data["pics"] == undefined) {
+    data.pics = [];
+  }
+
+  $j(div).append('<div class="picLink_pics"></div>');
+  for (var i = 0; i < data.pics.length; i++) {
+    addPicLink(div, data.pics[i]);
+  }
+
+  if (editable) {
+    $j('#' + div.id).append(
+      '<div class="picLink_form">'
+      + '<table><tbody>'
+      + '<tr><td>URL:</td><td><input type="text" value="" class="picLink_form_url"/></td></tr>'
+      + '<tr><td>Alt:</td><td><input type="text" value="" class="picLink_form_alt"/></td></tr>'
+      + '<tr><td>Img:</td><td><input type="text" value="" class="picLink_form_img"/><input type="button" class="picLink_form_img_browse" value="Browse"/></td></tr>'
+      + '<tr><td>Img Highlight:</td><td><input type="text" value="" class="picLink_form_img_highlight"/><input type="button" class="picLink_form_img_highlight_browse" value="Browse"/></td></tr>'
+      + '<tr><td colspan="2"><input type="button" value="Apply" class="picLink_form_apply"/>'
+      + '<input type="button" value="Add" class="picLink_form_add"/>'
+      + '<input type="button" value="Save" class="picLink_form_save"/></td></tr>'
+      + '</tbody></table></div>'
+    );
+    $j('#' + div.id).find('.picLink_form_img').next().bind('click', { id: div.id }, picLinkBrowseImg);
+    $j('#' + div.id).find('.picLink_form_img_highlight').next().bind('click', { id: div.id }, picLinkBrowseImgHighlight);
+    $j('#' + div.id).find('.picLink_form_apply').bind('click', { id: div.id }, applyPicLink);
+    $j('#' + div.id).find('.picLink_form_add').bind('click', { id: div.id }, function(event) { addPicLink($j('#' + event.data.id).get(0)); });
+    $j('#' + div.id).find('.picLink_form_save').bind('click', { id: div.id }, savePicLinks);
+  }
+}
+
+function addPicLink(div, pic, el) {
+  if (! pic) {
+    pic = { 
+      url: $j(div).find('.picLink_form_url').val(),
+      alt: $j(div).find('.picLink_form_alt').val(),
+      img: $j(div).find('.picLink_form_img').val(),
+      img_highlight: $j(div).find('.picLink_form_img_highlight').val(),               
+    };
+
+    var data = $j(div).data('data');
+    if (! data.pics) { data.pics = new Array(0); }
+    data.pics[data.pics.length] = pic;
+
+    $j(div).find('.picLink_form_url').val('');
+    $j(div).find('.picLink_form_alt').val('');
+    $j(div).find('.picLink_form_img').val('');
+    $j(div).find('.picLink_form_img_highlight').val('');
+  }
+
+  var editable = $j(div).data('editable');
+
+  var cl = '';
+  if (editable) { cl = '_editable'; }
+
+  var wrapper = null;
+  var html = '<div class="picLink_wrapper"><a href="' + pic.url + '" class="picLink_link"><img class="picLink_img' + '" src="' + pic.img + '" border="0" alt="' + pic.alt + '" title="' + pic.alt + '"/></a></div>';
+  if (el) {
+    $j(el).after(html);
+    wrapper = $j(el).next();
+    $j(el).remove();
+  } else {
+    $j(div).find('.picLink_pics').append(html);
+    wrapper = $j(div).find('.picLink_wrapper').last();
+  }
+  var img = wrapper.find('.picLink_img').last();
+  img.data('pic', pic);
+  img.bind('mouseover', picLinkMouseEnter);
+  img.bind('mouseout', picLinkMouseLeave);
+
+  if (editable) {
+    wrapper.append('<div class="picLink_wrapper_buttons">'
+      + '<a href="#" class="picLink_wrapper_edit"><img border="0" src="https://lh4.googleusercontent.com/-HLCm6L5-4GE/TtpdSTpsA7I/AAAAAAAAKxk/FlsRuxdjg5U/s16/edit.png" width="16" height="16" alt="edit"/></a>'
+      + '<a href="#" class="picLink_wrapper_delete"><img border="0" src="https://lh4.googleusercontent.com/-9x1x6H3FoOs/TtpdS7xKBZI/AAAAAAAAKxw/0lO21jkuXZ4/s16/delete.png" width="16" height="16" alt="delete"/></a>'
+      + '<a href="#" class="picLink_wrapper_left"><img border="0" src="https://lh5.googleusercontent.com/-qcy7LRvFe-0/TtpdSae5W3I/AAAAAAAAKxs/jzCpNdQmzLk/s16/left.png" width="16" height="16" alt="move left"/></a>'
+      + '<a href="#" class="picLink_wrapper_right"><img border="0" src="https://lh5.googleusercontent.com/-a9tYhR1hJCI/TtpdSerB4RI/AAAAAAAAKxo/IaMjTC_xn98/s800/right.png" width="16" height="16" alt="move right"/></a>'
+      + '</div>'
+    );
+    wrapper.find('.picLink_wrapper_edit').bind('click', { id: div.id }, editPicLink);
+    wrapper.find('.picLink_wrapper_delete').bind('click', { id: div.id }, deletePicLink);
+    wrapper.find('.picLink_wrapper_left').bind('click', { id: div.id }, leftPicLink);
+    wrapper.find('.picLink_wrapper_right').bind('click', { id: div.id }, rightPicLink);
+  }
+}
+
+function picLinksImageSelected(url) {
+  var field = null;
+  if ($j.picLinkPC.field == 'img') {
+    field = $j('#' + $j.picLinkPC.id).find('.picLink_form_img');
+  } else {
+    field = $j('#' + $j.picLinkPC.id).find('.picLink_form_img_highlight');
+  }
+  url = url + "?imgmax=800";
+  field.val(url);
+}
+
+function picLinkBrowseImg(event) {
+  $j.picLinkPC = {
+    id: event.data.id,
+    field: 'img'
+  }; 
+  window.open('picasaChooser?f=picLinksImageSelected','_blank','height=600,width=700,scrollbars=1');
+}
+
+function picLinkBrowseImgHighlight(event) {
+  $j.picLinkPC = {
+    id: event.data.id,
+    field: 'img_highlight'
+  }; 
+  window.open('picasaChooser?f=picLinksImageSelected','_blank','height=600,width=700,scrollbars=1');
+}
+
+function picLinkMouseEnter() {
+  if (this.src != $j(this).data('pic').img_highlight) {
+    this.src = $j(this).data('pic').img_highlight;
+  }
+  $j(this).css('opacity', 1.0);
+}
+
+function picLinkMouseLeave() {
+  if (this.src != $j(this).data('pic').img) {
+    this.src = $j(this).data('pic').img;
+  }
+  $j(this).css('opacity', '');
+}
+
+function editPicLink(event) {
+  var img = $j(event.target).closest('.picLink_wrapper').first().find('.picLink_img').first();
+  var pic = img.data('pic');
+
+  $j('#' + event.data.id).find('.picLink_form').data('pic', pic);
+  $j('#' + event.data.id).find('.picLink_form_url').val(pic.url);
+  $j('#' + event.data.id).find('.picLink_form_img').val(pic.img);
+  $j('#' + event.data.id).find('.picLink_form_img_highlight').val(pic.img_highlight);
+  $j('#' + event.data.id).find('.picLink_form_alt').val(pic.alt);
+
+  return false;
+}
+
+function deletePicLink(event) {
+  $j(this).closest('.picLink_wrapper').fadeOut(function() {
+    $j(this).remove();
+  });
+  return false;
+}
+
+function rightPicLink(event) {
+  var wrapper = $j(this).closest('.picLink_wrapper');
+  wrapper.next().after(wrapper);
+  return false;
+}
+
+function leftPicLink(event) {
+  var wrapper = $j(this).closest('.picLink_wrapper');
+  wrapper.prev().before(wrapper);
+  return false;
+}
+
+function applyPicLink(event) {
+  var div = $j('#' + event.data.id).get(0);
+
+  var oldPic = $j(div).find('.picLink_form').data('pic');
+  var newPic = { 
+    url: $j('#' + div.id).find('.picLink_form_url').val(),
+    alt: $j('#' + div.id).find('.picLink_form_alt').val(),
+    img: $j('#' + div.id).find('.picLink_form_img').val(),
+    img_highlight: $j('#' + div.id).find('.picLink_form_img_highlight').val(),               
+  };
+
+  $j(div).find('.picLink_img').each(function() {
+    if ($j(this).data('pic').img == oldPic.img) {
+      addPicLink(div, newPic, $j(this).closest('.picLink_wrapper').get(0));
+      return false;
+    }
+  });
+}
+
+function savePicLinks(event) {
+  var div = $j('#' + event.data.id).get(0);
+
+  var mydata = { pics: [] }
+  $j(div).find('.picLink_img').each(function() {
+    mydata.pics[mydata.pics.length] = $j(this).data('pic');
+  });
+  $j(div).data('data', mydata);
+
+  $j(div).find('.picLink_form_save').after('<span class="picLink_status">Saving...</span>');
+
+  $j.ajax({
+    url: $j('#' + div.id).data('baseUrl') + "/set",
+    data: { data: JSON.stringify(mydata) },
+    type: 'POST',
+    complete: function(data) {
+      $j(div).find('.picLink_status').fadeOut(function() { $j(this).remove(); });
+    },
+    error: function(jqXHR, textStatus, errorThrown) {
+      alert("Error: " + textStatus);
+    }
+  });
+}

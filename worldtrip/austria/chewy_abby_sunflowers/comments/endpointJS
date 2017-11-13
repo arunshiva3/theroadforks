@@ -1,0 +1,5 @@
+checkCaptchaEndpoint = "http://www.theroadforks.com/worldtrip/austria/chewy_abby_sunflowers/comments/checkCaptcha";
+addCommentEndpoint = "http://www.theroadforks.com/worldtrip/austria/chewy_abby_sunflowers/comments/addComment";
+getCommentEndpoint = "http://www.theroadforks.com/worldtrip/austria/chewy_abby_sunflowers/comments/content_comment";
+deleteCommentsEndpoint = "http://www.theroadforks.com/worldtrip/austria/chewy_abby_sunflowers/comments/deleteComments";
+checkForSpamEndpoint = "http://www.theroadforks.com/worldtrip/austria/chewy_abby_sunflowers/comments";
